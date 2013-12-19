@@ -1,4 +1,4 @@
-# Notes from meetings with Ericsson
+# Notes from meetings
 
 # 1st meeting (10.12.2013)
 

@@ -1,4 +1,4 @@
-# Questions for meetings with Ericsson
+# Meeting questions
 
 ## 1st meeting (10.12.2013)
 
