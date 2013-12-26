@@ -44,7 +44,7 @@
    regarding practices underpinned by defect counts (closing speed)
    qualitative study paired with quantitative data as question
    - Adaptable Measurement Framework (AMP)
-- *Maturityn*
+- *Maturity*
    - Level based (akin to CMMI)
       - incorporates methodologies, communication flow and performance
    - Lean MMs (Maturity Models)

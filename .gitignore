@@ -4,6 +4,7 @@
 /proposal/*.pdf
 /thesis/*.pdf
 .DS_Store
+/books/
 
 ## Ignoring shabang advised by GitHub's default ignore for latex
 
