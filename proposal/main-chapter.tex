@@ -1,0 +1,123 @@
+%%% Preamble
+%\title{Thesis Proposal}
+\documentclass[paper=a4, fontsize=11pt]{scrartcl}
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+
+\usepackage[english]{babel}
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{amsmath,amsfonts,amsthm} % Math packages
+\usepackage[pdftex]{graphicx}
+\usepackage{url}
+\usepackage{natbib}
+
+%%% Custom sectioning
+\usepackage{sectsty}
+\allsectionsfont{\centering \normalfont\scshape}
+
+%%% Custom headers/footers (fancyhdr package)
+\usepackage{fancyhdr}
+\pagestyle{fancyplain}
+\fancyhead{}								% No page header
+\fancyfoot[L]{}								% Empty
+\fancyfoot[C]{}								% Empty
+\fancyfoot[R]{\thepage}						% Pagenumbering
+\renewcommand{\headrulewidth}{0pt}			% Remove header underlines
+\renewcommand{\footrulewidth}{0pt}			% Remove footer underlines
+\setlength{\headheight}{13.6pt}
+
+
+%%% Equation and float numbering
+\numberwithin{equation}{section}		% Equationnumbering: section.eq#
+\numberwithin{figure}{section}			% Figurenumbering: section.fig#
+\numberwithin{table}{section}			% Tablenumbering: section.tab#
+
+
+%%% Maketitle metadata
+\newcommand{\horrule}[1]{\rule{\linewidth}{#1}} 	% Horizontal rule
+\newcommand{\quotes}[1]{``#1''}
+
+\title{
+		%\vspace{-1in}
+		\usefont{OT1}{bch}{b}{n}
+		\normalfont \normalsize \textsc{Chalmers and University of Gothenburg} \\ [25pt]
+		\horrule{0.5pt} \\[0.4cm]
+		\huge Thesis Proposal: Title \\
+		\horrule{2pt} \\[0.5cm]
+}
+\author{
+		\normalfont 				                     \normalsize
+      Anna Averianova and Tobias Deekens\\[-3pt]	\normalsize
+      \today
+}
+\date{}
+
+
+%%% Begin document
+\begin{document}
+\maketitle
+
+\section{Introduction}
+
+Agile Software Development's ideas and principles go back to the early 1960s and have been laid down in 2001 in the Agile Manifesto~\citep{beck2001agile}. Ever since the industry's need to adjust and respond to change quicker to deliver higher business value did not lose importance. Partially promising these results, agile is geared towards being applied within small, loosely coupled teams all working mostly independently~\citep{stober2009agile}. Embracing and transitioning towards any new work environment embodies barriers on a people and organizational level, both in their scale of magnitude being company dependent~\citep{schiel2009enterprise}. The general acceptance of Agile grows towards 84\% but is mostly applied within companies of intermediate size~\citep{7thagilesur}. This is where bigger corporations tend to be confronted with a larger set of issues brought about by more defined practices and processes and a well-defined organizational structure~\citep{schiel2009enterprise}. Organizational structures which may also be subject to further transformations but mostly can not be fully left behind as it is motivated by a need for coordination. Still, an organizational structure may be more or less fitting and have a need for optimizations.
+
+\section{Statement of the problem}
+
+Research has mainly been focusing on general advice towards transformations, maturity and comparative measurements and has less been concerned with belated integration difficulties.
+
+The study will be conducted in cooperation with Ericsson's department at Lindholmen. Dissatisfied with performance, around 2008 Ericsson started a transformation from the Waterfall based development towards a more Agile approach, following small incremental and discontinuous transformation steps. Rather than only changing the lower level coordination of development teams, it was decided to change the organizational structure along the way. Ericsson moved from a matrix-like organizational structure towards a hierarchical one with Cross-Functional-Teams at its lower level trying to embrace Agile Software Development: a structure not necessarily prescribed by Agile but motivated by Ericsson's scale.
+The strictly hierarchical structure causes a great number of connections, clear responsibilities and therefore delegation and potential queuing delays. As performance fluctuations and discrepancies became visible over the course of the transformation, it seems that especially boundaries and connection within the structure may hinder taking full advantage of Agile Software Development.
+
+This thesis' aim is to investigate and question agile's values compatibility with large organizations' structures and cultures. This includes problematic aspects with agile at scale and possible flow and blockages with a special focus on communication paths and their intersections. All geared towards pointing out strengths and weaknesses within the adoption to move towards to fruitful environments fostering self-management and productivity. For this purpose Ericssons' software department at Lindholmen cooperates and will provide valuable insights regarding the thesis' research objectives.
+
+\section{Purpose of the study}
+
+The purpose of this study is to identify information flow problems arising after the adoption of agile approach to software development caused by organizational structure in the context of large scale organizations.
+
+\section{Review of the literature}
+
+Agile software development has been the target of the academia ever since the emergence of the methodology. With its increasing popularity and more frequent adoption within the industry attempts have been made to provide theoretical foundation for assessment of agile's capability. In particular over the last years in which agile's capabilities have been more and more noticed even by bigger corporations. By promising to yield several benefits such as reduced time-to-market, increased quality and the ability to respond to market change quicker, it is becoming a competitive advantage to apply agile correctly~\citep{schwaber2007agile}. Anyhow, adopting some of agile's methodologies is not a silver bullet and a straight route to success. As pointed out by~\citet{grenning2001xp}, the utilization of eXtreme Programming (XP) embodied unexpected issues mostly caused by varying personal expectations especially on different levels of the organization. The importance of understanding the organization's status quo first in order to improve towards becoming more agile has already been emphasized early by~\citet{zhang1999manufacturing} for manufacturing businesses.~\citet{kettunen2008agileorg} take this approach further stressing the fact that some parts of an organization are more leaning towards agile than others. The same study also identified clear friction between larger corporations' business models and an unpredictable development process. By the same token agile feedback loop tends to slow down by defined processes, complex dependencies and product life-cycles.
+
+Nevertheless, agile's favor towards an uncontrolled and open environment does not imply a liberation from any measurements. The use of metrics as a quantifiable description of the development process has been widely discussed with respect to plan driven software development. As suggested by Hartman and Dymond, agile measurements should be tailored in accordance with the development process rather than simply adopted from plan-driven approach. Due to high context dependency, there is no universal set of metrics one can apply to estimate the performance. However, frameworks \textemdash such GQM (goal, question, metric) or Balanced Scorecard \textemdash exist to rationally choose the metric and connect it to a specific goal.
+Moreover, several attempts have been made to map agile software development to the CMM/CMMI model, the model used to assess the organizational maturity [reference]. As it was shown by, for example,~\citet{pitterman2000maturity}, reaching higher levels of this model assists in producing quality software while increasing productivity and saving budget. Both possibility of such mapping [example: Paulk] and the conflicting areas between the two [Turner and Jain] have been pointed out, with no definite agreement about the issue being reached. Thus, other maturity models, applicable in the agile context, have been suggested, such as AMM (Agile Maturity Model)~\citep{chetankumar2009amm} and LMM (Light Maturity Models)~\citep{buglione2011lmm}.
+
+All maturity models and metrics being applied a posteriori, culture is mostly perceived with a predefined degree of fitness in terms of agility~\citep{ivari2011orgagile}. Which is where academia has followed transformations from plan-driven to agile software development in organizations of various size to investigate possible obstacles and encountered issues~\citep{laanti2011nokia}. Here a lack of profound body of knowledge in the area of agile adoption in large organizations has been pointed out especially as new practices do not tend to be equally appreciated even among employees within a single level of the organisation. In this context ~\citet{ivari2011orgagile} abstract further and apply the Competing Values Model of organizational culture to propose a number of hypothesis to relate culture and agility. Anyhow, open ends remain in relation to an emerging perspective towards culture in which practices and beliefs are connected and everchanging.
+
+\section{Research questions}
+
+An attempt answering the following research questions will be made.
+
+\begin{enumerate}
+   \item In which ways can an organizational structure hinder or foster information flow within large scale agile development?
+   \item How can problematic aspects of work environments within cross-functional teams be identified and improvement advice be given?
+   \item To what extent can incompatibility between agile development and larger companies' organizational structures be identified and mitigated?
+\end{enumerate}
+
+\section{The Design\textemdash Methods and Procedures}
+
+As was mentioned in the \quotes{Statement of the Problem}, this thesis will use a case study as a main research method, in cooperation with Ericsson AB, Lindholmen. The company, being one of the largest organizations having adopted agile methodologies, will serve as a ground for investigating issues with agile at scale. Given the problem description, this thesis will attempt to study the relevant aspects of the subject and propose possible causal relations.
+
+At first, the existing organizational structure and interconnections between separate units will be thoroughly investigated with the help of relevant documentation available on site in addition to interviews with assigned employees. The currently existing development processes will be explored in a similar fashion which will also be complemented with observations.
+Possible issues that may be causing the problems, which are the main objective of this study, will firstly be gathered from existing literature to later prove their validity using the given context. Issues other than those mentioned in the existing research will be obtained by qualitative data obtained from the employees during interviews.
+
+Ericsson's management has not yet performed any investigations and metrics regarding their organizational structure. Still, the study will look at the available historical data about performance (more classical metrics on software deliverables and check-ins) that have been continuously collected. These can be used to underpin qualitative aspects from a quantitative perspective, especially in areas in which time-oriented data can reveal delays. Hence, models and theories should be developed by aggregating information from literature as much as incorporating results from qualitative data.
+
+\section{Limitations and Delimitations}
+
+The study will be conducted in collaboration with a single organization hence the setting might be biased by the culture and structure of the organization and consequently Ericsson's interpretation of agile. The results therefore may not be generalizable to full extent, which is a threat to external validity of the study.
+Literature review performed to select an initial set of possible causal factors might not be complete to fully explain the existing context. The study will attempt to discover other causes but some of them might go unnoticed by us, posing a threat to internal validity. Related to that is the bias of those making the final selection of possible causes, which is highly subjective. Unanticipated events, structural or other changes affecting the environment under study might have an influence on workflow within the company and therefore interfere with the results. Greater part of the study will be done using qualitative methods (namely, interviews), strategy for sampling of interviewees as well as the process of their conduct might also threaten the internal validity. The employees might be subject to Hawthorne effect making the qualitative data not fully realistic. The quantitative data available for analysis from the company may not be sufficient to describe the process completely from relevant perspectives and therefore might not guarantee reliable conclusions.
+Misinterpretation of the aspects of the work process under study is a threat to construct validity. The discrepancies in used constructs might appear during the interviews, as well as between the studied research literature and Ericsson's internal documentation.
+
+Only one case study will be performed during the thesis due to a limited amount of available resources. Further study of existing maturity models in the context of agile development process will not be performed. Their application will be left out from the thesis, as it will focus on the organizational structure. No new measurements will be introduced and collected due to a limited timeframe of the study not allowing to observe any reliable trends. Interviews will be conducted instead of surveys as a consequence of high cost of the latter.
+
+\section{Significance of the study}
+
+One of the main purposes of this study is to provide real data about the effects the organizational structure has on the agile software development process in the context of the large scale companies.
+Agile scalability is a sensitive topic within the industry as even larger companies, attracted by the promised benefits of applying such approach to software development, have been adopting agile methodologies. This thesis will attempt to identify possible shortcomings of agile at scale with respect to organizational structure and thus provide the practitioners with a reference to potential areas of improvement in the context of their organizations. In addition, as mentioned by~\citet{ding2013research} research in the area of large scale agile has been extensive and \quotes{practice is ahead of research}. Hence, this thesis will attempt to extend the existing knowledge about difficulties accompanying agile integration in large scale enterprises.
+
+\pagebreak
+\bibliography{biblio}
+\bibliographystyle{agsm}
+
+%%% End document
+\end{document}
