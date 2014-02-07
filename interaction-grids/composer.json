@@ -1,0 +1,30 @@
+{
+    "name": "MSc Interaction Grids",
+    "type": "application",
+    "description": "Interaction Grids from MSc",
+    "keywords": ["php", "app"],
+    "homepage": "http://msc.tdeekens.name/interaction-grids",
+    "license": "MIT",
+    "minimum-stability": "stable",
+
+    "authors": [
+        {
+            "name": "Anna Averianova & Tobias Deekens",
+            "homepage": "http://tdeekens.name"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.4",
+        "jenssegers/router": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "msc\\interactiongrids": "composer/"
+        }
+    },
+    "config" : {
+        "bin-dir": "bin",
+        "vendor-dir" : "composer"
+    }
+}
