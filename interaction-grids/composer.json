@@ -1,7 +1,7 @@
 {
-    "name": "MSc Interaction Grids",
+    "name": "MSc-Interaction-Grids",
     "type": "application",
-    "description": "Interaction Grids from MSc",
+    "description": "Interaction Grids from MSc project",
     "keywords": ["php", "app"],
     "homepage": "http://msc.tdeekens.name/interaction-grids",
     "license": "MIT",

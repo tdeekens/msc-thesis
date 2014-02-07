@@ -1,5 +1,5 @@
 {
-  "name": "MSc Interaction Grids",
+  "name": "MSc-Interaction-Grids",
   "version": "0.0.1",
   "ignore": [
     "test",
@@ -8,7 +8,9 @@
   ],
   "dependencies": {
     "jquery": "latest",
-    "foundation": "zurb/bower-foundation#~5.0.2"
+    "foundation": "zurb/bower-foundation#~5.0.2",
+    "momentjs": "latest",
+    "lodash": "~2.4.1"
   },
   "devDependencies": {}
 }
