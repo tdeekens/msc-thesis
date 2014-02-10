@@ -62,6 +62,7 @@
             intensity: randy.randInt(1, 6),
             nature: randy.choice(natures),
             unit: roleInteraction,
+            createdAt: new Date().toISOString(),
             initiation: randy.choice([true, false])
          };
 
