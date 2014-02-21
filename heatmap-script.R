@@ -31,7 +31,7 @@ otherpalette <- colorRampPalette(c("green", "yellow", "red"))(n = 299)
 #########################################################
 ### Save the dimension of the matrix in a separate variable
 #########################################################
-matrix_length <- list(1:(ncol(cdata)))
+matrix_length <- list(0:(ncol(cdata)))
 
 #########################################################
 ### Draw a heatmap
@@ -39,8 +39,7 @@ matrix_length <- list(1:(ncol(cdata)))
 
 heatmap.2(cdata, dendrogram="none", Rowv= NULL,      		  # No dendrogram
 			symm=TRUE, 	trace="none", density.info = "none",  # Treat matrix symmetrically
-			xlab = "People", srtCol=45, 					  # Write Column names with 45 degrees angle
-			ylab = "Y People", main = "Heat Map #1", col=trypalette,
+			main = "Heat Map #1", srtCol=45, col=trypalette,  # Write Column names with 45 degrees angle
 			sepwidth=c(0.01, 0.01), sepcolor="black", colsep=matrix_length, rowsep=matrix_length # Specify where to draw borders
 			)
 
