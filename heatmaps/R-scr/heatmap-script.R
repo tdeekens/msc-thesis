@@ -8,7 +8,7 @@ library(lattice)
 #########################################################
 ### Read data from .csv file
 #########################################################
-data <- read.csv("../annaav/Documents/zero-no-headers.csv", comment.char="",header=TRUE, row.names=1, sep=";")
+data <- read.csv("../zero-no-headers.csv", comment.char="",header=TRUE, row.names=1, sep=";")
 
 #########################################################
 ### Save column and row names in a separate variable
