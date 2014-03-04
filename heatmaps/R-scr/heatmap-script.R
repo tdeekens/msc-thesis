@@ -8,7 +8,7 @@ library(lattice)
 #########################################################
 ### Read data from .csv file
 #########################################################
-data <- read.csv("../zero-no-headers.csv", comment.char="",header=TRUE, row.names=1, sep=";")
+data <- read.csv("../ms2-d1.csv", comment.char="",header=TRUE, row.names=1, sep=";")
 
 #########################################################
 ### Save column and row names in a separate variable
@@ -18,7 +18,7 @@ rcNames <- list(row.names(data), colnames(data))
 #########################################################
 ### Trransform data into a matrix
 #########################################################
-cdata <- matrix(as.numeric(unlist(data)), ncol = 16, byrow = FALSE, dimnames = rcNames)
+cdata <- matrix(as.numeric(unlist(data)), ncol = 22, byrow = FALSE, dimnames = rcNames)
 
 #########################################################
 ### Color palette to use
