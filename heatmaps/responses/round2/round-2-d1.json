@@ -1,0 +1,559 @@
+[
+    {
+        "employeeId": "XFT-SM2",
+        "role": "SM",
+        "group": "XFT",
+        "createdAt": "2014-03-11T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-6",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-7",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-8",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-9",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-10",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-PG2",
+                "role": "XFT-PG",
+                "intensity": 4,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "OPO5",
+                "role": "OPO",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "PgM3",
+                "role": "PgM",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "PgM"
+            },
+            {
+                "employeeId": "Dsgnr12",
+                "role": "Designer",
+                "intensity": 1,
+                "nature": "R",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "Designer"
+            },
+            {
+                "employeeId": "Dsgnr13",
+                "role": "Designer",
+                "intensity": 1,
+                "nature": "U",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": true,
+                "group": "Designer"
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-6",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-011T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-SM2",
+                "role": "XFT-SM",
+                "intensity": 1,
+                "nature": "Unknown",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-7",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "E",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-9",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "E",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-10",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-PG2",
+                "role": "XFT-PG",
+                "intensity": 3,
+                "nature": "D",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "OPO5",
+                "role": "OPO",
+                "intensity": 1,
+                "nature": "Unknown",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "DM4",
+                "role": "SM-DM",
+                "intensity": 1,
+                "nature": "O-Approval-of-Order-in-Gorden",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": true,
+                "group": "SM-DM"
+            },
+            {
+                "employeeId": "Dsgnr9",
+                "role": "Designer",
+                "intensity": 4,
+                "nature": "U",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "Designer"
+            },
+            {
+                "employeeId": "Dsgnr10",
+                "role": "Designer",
+                "intensity": 1,
+                "nature": "R",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": true,
+                "group": "Designer"
+            },
+            {
+                "employeeId": "Dsgnr11",
+                "role": "Designer",
+                "intensity": 2,
+                "nature": "U",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "Designer"
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-7",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-11T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-SM2",
+                "role": "XFT-SM",
+                "intensity": 3,
+                "nature": "Unknown",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-SM"
+            },
+            {
+                "employeeId": "XFT-6",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-8",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "Unknown",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-9",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "Unknown",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-10",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "Unknown",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-PG2",
+                "role": "XFT-PG",
+                "intensity": 3,
+                "nature": "Unknown",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-PG"
+            },
+            {
+                "employeeId": "OPO5",
+                "role": "OPO",
+                "intensity": 1,
+                "nature": "Unknown",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "DM4",
+                "role": "SM-DM",
+                "intensity": 1,
+                "nature": "Unknown",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "SM-DM"
+            },
+            {
+                "employeeId": "DM4",
+                "role": "SM-DM",
+                "intensity": 1,
+                "nature": "Unknown",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "SM-DM"
+            },
+            {
+                "employeeId": "PGM1",
+                "role": "PgM",
+                "intensity": 1,
+                "nature": "Unknown",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "PgM"
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-8",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-11T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X1",
+                "role": "SM",
+                "intensity": 4,
+                "nature": "R",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-9",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-11T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-SM2",
+                "role": "XFT-SM",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-SM"
+            },
+            {
+                "employeeId": "XFT-6",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-7",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-10",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-6",
+                "role": "XFT-PG",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-PG"
+            },
+            {
+                "employeeId": "OPO5",
+                "role": "OPO",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-10",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-11T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X1",
+                "role": "SM",
+                "intensity": 2,
+                "nature": null,
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "SM"
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-PG2",
+        "role": "XFT-PG",
+        "group": "XFT",
+        "createdAt": "2014-03-11T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-6",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-7",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-10",
+                "role": "XFT-D",
+                "intensity": 4,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "ITS1",
+                "role": "IT-S",
+                "intensity": 1,
+                "nature": "O-Reported-Fault-on-Team-Server",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": true,
+                "group": "IT-S"
+            }
+        ]
+    },
+    {
+        "employeeId": "OPO5",
+        "role": "OPO",
+        "group": "OPO",
+        "createdAt": "2014-03-11T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X1",
+                "role": "XFT-SM",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-SM"
+            },
+            {
+                "employeeId": "XFT-6",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-7",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-9",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-10",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "XFT-PG2",
+                "role": "XFT-PG",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-PG"
+            },
+            {
+                "employeeId": "PgM3",
+                "role": "PgM",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "PgM"
+            },
+            {
+                "employeeId": "PG4",
+                "role": "PG",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "PG"
+            },
+            {
+                "employeeId": "PG5",
+                "role": "PG",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "PG"
+            }
+        ]
+    },
+    {
+        "employeeId": "DM4",
+        "role": "SM-DM",
+        "group": "SM-DM",
+        "createdAt": "2014-03-11T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X8",
+                "role": "OPO",
+                "intensity": 2,
+                "nature": "O-Planning-data-future-sprints",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            }
+        ]
+    },
+    {
+        "employeeId": "PgM3",
+        "role": "PgM",
+        "group": "PgM",
+        "createdAt": "2014-03-11T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X8",
+                "role": "OPO",
+                "intensity": 2,
+                "nature": "O-Planning-data-future-sprints",
+                "createdAt": "2014-03-11T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            }
+        ]
+    }
+]
