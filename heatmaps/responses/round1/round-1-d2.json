@@ -1,0 +1,1036 @@
+[
+    {
+        "employeeId": "XFT-SM1                                               ",
+        "role": "XFT-Scrum-Master",
+        "group": "XFT",
+        "createdAt": "2014-03-03T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-1",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-2",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-3",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-5",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "OPO1",
+                "role": "OPO",
+                "intensity": 3,
+                "nature": "D",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "DM1",
+                "role": "Department-Manager",
+                "intensity": 5,
+                "nature": "O-Administrative",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "DM"
+            },
+            {
+                "employeeId": "Dsgnr1",
+                "role": "Designer",
+                "intensity": 1,
+                "nature": "E",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "DES"
+            },
+            {
+                "employeeId": "O2",
+                "role": "Unknown",
+                "intensity": 1,
+                "nature": "U",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": ""
+            },
+            {
+                "employeeId": "XFT-1",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-2",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-3",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-4",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-5",
+                "role": "XFT-D",
+                "intensity": 6,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "OPO1",
+                "role": "OPO",
+                "intensity": 3,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "Dsgnr1",
+                "role": "Designer",
+                "intensity": 4,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "DES"
+            },
+            {
+                "employeeId": "Dsgnr3",
+                "role": "Designer",
+                "intensity": 1,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "DES"
+            },
+            {
+                "employeeId": "O7",
+                "role": "Unknown",
+                "intensity": 5,
+                "nature": "O-future",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": ""
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-1",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-03T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-SM1",
+                "role": "XFT-Scrum-Master",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-5",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "Dsgnr1",
+                "role": "Designer",
+                "intensity": 1,
+                "nature": "E",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "DES"
+            },
+            {
+                "employeeId": "XFT-SM1",
+                "role": "XFT-Scrum-Master",
+                "intensity": 4,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-2",
+                "role": "XFT-D",
+                "intensity": 4,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-3",
+                "role": "XFT-D",
+                "intensity": 4,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-4",
+                "role": "XFT-D",
+                "intensity": 4,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-5",
+                "role": "XFT-D",
+                "intensity": 4,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "PG3",
+                "role": "PG",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "PG"
+            },
+            {
+                "employeeId": "Dsgnr4",
+                "role": "PG",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "DES"
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-2",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-03T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "CCB-A",
+                "role": "CCB-A",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "CCB"
+            },
+            {
+                "employeeId": "TC1",
+                "role": "TC",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "TC"
+            },
+            {
+                "employeeId": "XFT-SM1",
+                "role": "XFT-Scrum-Master",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-1",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-3",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-4",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-5",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "OPO1",
+                "role": "OPO",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "CCB-A",
+                "role": "CCB-A",
+                "intensity": 2,
+                "nature": "D",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "CCB"
+            },
+            {
+                "employeeId": "FPjL1",
+                "role": "Feature-Pj-Leader",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "FPjL1"
+            },
+            {
+                "employeeId": "PdMRBS1",
+                "role": "Product-Manager-RBS-Sys",
+                "intensity": 3,
+                "nature": "D",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "PdM"
+            },
+            {
+                "employeeId": "RBS1",
+                "role": "RBS",
+                "intensity": 1,
+                "nature": "D",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "RBS"
+            },
+            {
+                "employeeId": "SPM1",
+                "role": "Strategic-PM",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "SPM"
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-3",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-03T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-SM1",
+                "role": "XFT-Scrum-Master",
+                "intensity": 4,
+                "nature": "R",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-2",
+                "role": "XFT-D",
+                "intensity": 4,
+                "nature": "R",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-5",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "R",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "Dsgnr1",
+                "role": "Designer",
+                "intensity": 4,
+                "nature": "R",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "DES"
+            },
+            {
+                "employeeId": "O6",
+                "role": "Manager",
+                "intensity": 4,
+                "nature": "D",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "MAN"
+            },
+            {
+                "employeeId": "Dsgnr2",
+                "role": "Designer",
+                "intensity": 4,
+                "nature": "E",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "DES"
+            },
+            {
+                "employeeId": "XFT-SM1",
+                "role": "XFT-Scrum-Master",
+                "intensity": 5,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-1",
+                "role": "XFT-D",
+                "intensity": 5,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-2",
+                "role": "XFT-D",
+                "intensity": 5,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-4",
+                "role": "XFT-D",
+                "intensity": 5,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-5",
+                "role": "XFT-D",
+                "intensity": 5,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "Dsgnr1",
+                "role": "Designer",
+                "intensity": 4,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "DES"
+            },
+            {
+                "employeeId": "Dsgnr5",
+                "role": "Designer",
+                "intensity": 5,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "DES"
+            },
+            {
+                "employeeId": "Dsgnr6",
+                "role": "Designer",
+                "intensity": 5,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "DES"
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-4",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-03T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-SM1",
+                "role": "XFT-Scrum-Master",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-1",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-2",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-3",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-5",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "Dsgnr1",
+                "role": "Designer",
+                "intensity": 4,
+                "nature": "U",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "DES"
+            },
+            {
+                "employeeId": "Dsgnr7",
+                "role": "Designer",
+                "intensity": 4,
+                "nature": "U",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "DES"
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-5",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-03T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-1",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "U",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-2",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "U",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-3",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-PG1",
+                "role": "XFT-PG",
+                "intensity": 2,
+                "nature": "U",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "Dsgnr1",
+                "role": "Designer",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "DES"
+            },
+            {
+                "employeeId": "XFT-SM1",
+                "role": "XFT-Scrum-Master",
+                "intensity": 6,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-1",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-2",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-3",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-4",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "Dsgnr1",
+                "role": "Designer",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "DES"
+            }
+        ]
+    },
+    {
+        "employeeId": "XFT-PG1",
+        "role": "XFT-PG",
+        "group": "XFT",
+        "createdAt": "2014-03-03T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-SM1",
+                "role": "XFT-Scrum-Master",
+                "intensity": 2,
+                "nature": null,
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-5",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "OPO1",
+                "role": "OPO",
+                "intensity": 1,
+                "nature": "D",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "OPO2",
+                "role": "OPO",
+                "intensity": 2,
+                "nature": "U",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "OPO1",
+                "role": "OPO",
+                "intensity": 3,
+                "nature": "D",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "OPO2",
+                "role": "OPO",
+                "intensity": 3,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            }
+        ]
+    },
+    {
+        "employeeId": "OPO1",
+        "role": "OPO",
+        "group": "OPO",
+        "createdAt": "2014-03-03T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "XFT-SM1",
+                "role": "XFT-Scrum-Master",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-2",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": null,
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-5",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": null,
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-PG1",
+                "role": "XFT-PG",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "PgM1",
+                "role": "Program-Manager",
+                "intensity": 1,
+                "nature": null,
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "PgM"
+            },
+            {
+                "employeeId": "OPO3",
+                "role": "OPO",
+                "intensity": 6,
+                "nature": "B",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "XFT-SM1",
+                "role": "XFT-Scrum-Master",
+                "intensity": 3,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-PG1",
+                "role": "XFT-PG",
+                "intensity": 2,
+                "nature": "U",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "PgM1",
+                "role": "Program-Manager",
+                "intensity": 4,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "PgM"
+            },
+            {
+                "employeeId": "OPO3",
+                "role": "OPO",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            }
+        ]
+    },
+    {
+        "employeeId": "DM1",
+        "role": "Department-Manager-acting-Section-Manager",
+        "group": "DM",
+        "createdAt": "2014-03-03T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "DM2",
+                "role": "Department-Manager",
+                "intensity": 5,
+                "nature": "O-Recruitment",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "DM"
+            },
+            {
+                "employeeId": "SM2",
+                "role": "Section-Manager",
+                "intensity": 4,
+                "nature": "E",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "SM"
+            },
+            {
+                "employeeId": "TM1",
+                "role": "TM",
+                "intensity": 2,
+                "nature": "O-Section-Planning",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "TM"
+            },
+            {
+                "employeeId": "SM2",
+                "role": "Section-Manager",
+                "intensity": 3,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "SM"
+            },
+            {
+                "employeeId": "DM2",
+                "role": "Department-Manager",
+                "intensity": 3,
+                "nature": "O-Recruitment-Way-of-Working",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "DM"
+            },
+            {
+                "employeeId": "PgM1",
+                "role": "Program-Manager",
+                "intensity": 3,
+                "nature": "O-Project-Steering",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "PgM"
+            },
+            {
+                "employeeId": "PgM3",
+                "role": "Program-Manager",
+                "intensity": 3,
+                "nature": "O-Project-Steering",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "PgM"
+            },
+            {
+                "employeeId": "SrM1",
+                "role": "Sector-Manager",
+                "intensity": 3,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "SrM"
+            },
+            {
+                "employeeId": "SM3",
+                "role": "Section-Manager",
+                "intensity": 2,
+                "nature": "O-Way-of-Working",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "SM"
+            }
+        ]
+    },
+    {
+        "employeeId": "PgM1",
+        "role": "PgM",
+        "group": "Program-Manager",
+        "createdAt": "2014-03-03T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "OPO1",
+                "role": "OPO",
+                "intensity": 2,
+                "nature": "O-Planning-data-future-sprints",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": true,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "TC1",
+                "role": "TC",
+                "intensity": 3,
+                "nature": "O-Future-planning-next-release",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "TC"
+            },
+            {
+                "employeeId": "CAKM1",
+                "role": "CA-Kanban-Master",
+                "intensity": 3,
+                "nature": "O-Future-planning-next-release",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "KM"
+            },
+            {
+                "employeeId": "APO1",
+                "role": "APO",
+                "intensity": 3,
+                "nature": "O-Future-planning-next-release",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "APO"
+            },
+            {
+                "employeeId": "PgM2",
+                "role": "Program-Manager",
+                "intensity": 3,
+                "nature": "O-P5G-preparation",
+                "createdAt": "2014-03-03T13:42:50.502Z",
+                "initiation": false,
+                "group": "PgM"
+            },
+            {
+                "employeeId": "OPO1",
+                "role": "OPO",
+                "intensity": 3,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "DM1",
+                "role": "Department-Manager",
+                "intensity": 1,
+                "nature": "O-planning",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "DM"
+            },
+            {
+                "employeeId": "TC1",
+                "role": "TC",
+                "intensity": 3,
+                "nature": "O-Planning",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "TC"
+            },
+            {
+                "employeeId": "OPO4",
+                "role": "OPO",
+                "intensity": 5,
+                "nature": "O-scenario-planning",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "OPO"
+            }
+        ]
+    }
+]

@@ -1,0 +1,450 @@
+[
+    {
+        "employeeId": "X1",
+        "role": "SM",
+        "group": "XFT",
+        "createdAt": "2014-03-04T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X2",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "X3",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "X5",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "X8",
+                "role": "OPO",
+                "intensity": 3,
+                "nature": "D",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "X8",
+                "role": "OPO",
+                "intensity": 5,
+                "nature": "O-Administrative",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "O1",
+                "role": "DES",
+                "intensity": 1,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "DES"
+            },
+            {
+                "employeeId": "O2",
+                "role": "",
+                "intensity": 1,
+                "nature": "U",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": ""
+            }
+        ]
+    },
+    {
+        "employeeId": "X2",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-04T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X1",
+                "role": "SM",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "X6",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "O1",
+                "role": "DES",
+                "intensity": 1,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "DES"
+            }
+        ]
+    },
+    {
+        "employeeId": "X3",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-04T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "O3",
+                "role": "CEB",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "CEB"
+            },
+            {
+                "employeeId": "O4",
+                "role": "MTC",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "MTC"
+            }
+        ]
+    },
+    {
+        "employeeId": "X4",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-04T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X1",
+                "role": "SM",
+                "intensity": 4,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "X3",
+                "role": "XFT-D",
+                "intensity": 4,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "X6",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "O1",
+                "role": "DES",
+                "intensity": 4,
+                "nature": "R",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "DES"
+            },
+            {
+                "employeeId": "O6",
+                "role": "MAN",
+                "intensity": 4,
+                "nature": "D",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "MAN"
+            },
+            {
+                "employeeId": "O7",
+                "role": "DES",
+                "intensity": 4,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "DES"
+            }
+        ]
+    },
+    {
+        "employeeId": "X5",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-04T13:42:50.502Z",
+        "conversations": []
+    },
+    {
+        "employeeId": "X6",
+        "role": "XFT-D",
+        "group": "XFT",
+        "createdAt": "2014-03-04T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X2",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "U",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "X3",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "U",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "X4",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "X7",
+                "role": "XFT-PG",
+                "intensity": 2,
+                "nature": "U",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "O1",
+                "role": "DES",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "DES"
+            }
+        ]
+    },
+    {
+        "employeeId": "X7",
+        "role": "XFT-PG",
+        "group": "XFT",
+        "createdAt": "2014-03-04T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X1",
+                "role": "SM",
+                "intensity": 2,
+                "nature": null,
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "SM"
+            },
+            {
+                "employeeId": "X6",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-D"
+            },
+            {
+                "employeeId": "X8",
+                "role": "OPO",
+                "intensity": 1,
+                "nature": "D",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "OPO2",
+                "role": "OPO",
+                "intensity": 2,
+                "nature": "U",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            }
+        ]
+    },
+    {
+        "employeeId": "X8",
+        "role": "OPO",
+        "group": "OPO",
+        "createdAt": "2014-03-04T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X1",
+                "role": "SM",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "SM"
+            },
+            {
+                "employeeId": "X3",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": null,
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "X6",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": null,
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "X7",
+                "role": "XFT-PG",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "PgM1",
+                "role": "PgM",
+                "intensity": 1,
+                "nature": null,
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "PgM"
+            },
+            {
+                "employeeId": "OPO3",
+                "role": "OPO",
+                "intensity": 6,
+                "nature": "B",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            }
+        ]
+    },
+    {
+        "employeeId": "X9",
+        "role": "SM/DM",
+        "group": "SM",
+        "createdAt": "2014-03-04T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "DM1",
+                "role": "DM",
+                "intensity": 5,
+                "nature": "O-Recruitment",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "DM"
+            },
+            {
+                "employeeId": "SM1",
+                "role": "SM",
+                "intensity": 4,
+                "nature": "E",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "SM"
+            },
+            {
+                "employeeId": "TM1",
+                "role": "TM",
+                "intensity": 2,
+                "nature": "O-Section-Planning",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": true,
+                "group": "TM"
+            }
+        ]
+    },
+    {
+        "employeeId": "X10",
+        "role": "PM",
+        "group": "PM",
+        "createdAt": "2014-03-04T13:42:50.502Z",
+        "conversations": [
+            {
+                "employeeId": "X8",
+                "role": "OPO",
+                "intensity": 2,
+                "nature": "O-Planning-data-future-sprints",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
+            },
+            {
+                "employeeId": "O4",
+                "role": "MTC",
+                "intensity": 3,
+                "nature": "O-Future-planning-next-release",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "MTC"
+            },
+            {
+                "employeeId": "O5",
+                "role": "KM",
+                "intensity": 3,
+                "nature": "O-Future-planning-next-release",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "KM"
+            },
+            {
+                "employeeId": "APO1",
+                "role": "APO",
+                "intensity": 3,
+                "nature": "O-Future-planning-next-release",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "APO"
+            },
+            {
+                "employeeId": "PgM1",
+                "role": "PgM",
+                "intensity": 3,
+                "nature": "O-P5G-preparation",
+                "createdAt": "2014-03-04T13:42:50.502Z",
+                "initiation": false,
+                "group": "PgM"
+            }
+        ]
+    }
+]
