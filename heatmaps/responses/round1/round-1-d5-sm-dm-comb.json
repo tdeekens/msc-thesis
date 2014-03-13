@@ -644,12 +644,12 @@
             },
             {
                 "employeeId": "FPjL1",
-                "role": "Feature-Pj-Leader",
+                "role": "FPjM",
                 "intensity": 1,
                 "nature": "B",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": false,
-                "group": "FPjL1"
+                "group": "FPjM"
             },
             {
                 "employeeId": "PdMRBS1",
@@ -797,12 +797,12 @@
             },
             {
                 "employeeId": "FPjL1",
-                "role": "Feature-Pj-Leader",
+                "role": "FPjM",
                 "intensity": 1,
                 "nature": "B",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": true,
-                "group": "FPjL1"
+                "group": "FPjM"
             },
             {
                 "employeeId": "SPM1",
@@ -923,12 +923,12 @@
             },
             {
                 "employeeId": "FPjL1",
-                "role": "Feature-Pj-Leader",
+                "role": "FPjM",
                 "intensity": 3,
                 "nature": "B",
                 "createdAt": "2014-03-07T13:42:50.502Z",
                 "initiation": false,
-                "group": "FPjL1"
+                "group": "FPjM"
             },
             {
                 "employeeId": "PdMRBS1",
@@ -1829,7 +1829,7 @@
                 "employeeId": "XFT-5",
                 "role": "XFT-D",
                 "intensity": 1,
-                "nature": null,
+                "nature": "Unknown",
                 "createdAt": "2014-03-03T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT"
