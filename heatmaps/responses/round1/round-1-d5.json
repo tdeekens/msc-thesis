@@ -52,7 +52,7 @@
             },
             {
                 "employeeId": "DM1",
-                "role": "Department-Manager",
+                "role": "DM-SM",
                 "intensity": 5,
                 "nature": "O-Administrative",
                 "createdAt": "2014-03-03T13:42:50.502Z",
@@ -61,7 +61,7 @@
             },
             {
                 "employeeId": "Dsgnr1",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 1,
                 "nature": "E",
                 "createdAt": "2014-03-03T13:42:50.502Z",
@@ -70,12 +70,12 @@
             },
             {
                 "employeeId": "PjM1",
-                "role": "Project-Manager",
+                "role": "PjM",
                 "intensity": 1,
                 "nature": "U",
                 "createdAt": "2014-03-03T13:42:50.502Z",
                 "initiation": false,
-                "group": ""
+                "group": "PjM"
             },
             {
                 "employeeId": "XFT-1",
@@ -133,7 +133,7 @@
             },
             {
                 "employeeId": "Dsgnr1",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 4,
                 "nature": "R",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -142,7 +142,7 @@
             },
             {
                 "employeeId": "Dsgnr3",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 1,
                 "nature": "R",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -205,12 +205,12 @@
             },
             {
                 "employeeId": "PjM1",
-                "role": "Project-Manager",
+                "role": "PjM",
                 "intensity": 4,
                 "nature": "O-TR-Discussion",
                 "createdAt": "2014-03-05T13:42:50.502Z",
                 "initiation": false,
-                "group": ""
+                "group": "PjM"
             },
             {
                 "employeeId": "XFT-1",
@@ -267,8 +267,8 @@
                 "group": "OPO"
             },
             {
-                "employeeId": "SM1",
-                "role": "Section-Manager",
+                "employeeId": "DM1",
+                "role": "DM-SM",
                 "intensity": 4,
                 "nature": "O-Section-Meeting",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -277,7 +277,7 @@
             },
             {
                 "employeeId": "PjM1",
-                "role": "Project-Manager",
+                "role": "PjM",
                 "intensity": 1,
                 "nature": "U",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -331,7 +331,7 @@
             },
             {
                 "employeeId": "Dsgnr1",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 2,
                 "nature": "E",
                 "createdAt": "2014-03-07T13:42:50.502Z",
@@ -366,7 +366,7 @@
             },
             {
                 "employeeId": "Dsgnr1",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 1,
                 "nature": "E",
                 "createdAt": "2014-03-03T13:42:50.502Z",
@@ -429,7 +429,7 @@
             },
             {
                 "employeeId": "Dsgnr4",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 2,
                 "nature": "E",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -537,7 +537,7 @@
             },
             {
                 "employeeId": "Dsgnr9",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 3,
                 "nature": "E",
                 "createdAt": "2014-03-07T13:42:50.502Z",
@@ -546,7 +546,7 @@
             },
             {
                 "employeeId": "Dsgnr10",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 3,
                 "nature": "E",
                 "createdAt": "2014-03-07T13:42:50.502Z",
@@ -563,7 +563,7 @@
         "conversations": [
             {
                 "employeeId": "CCB-A1",
-                "role": "CCB-A",
+                "role": "CCB",
                 "intensity": 2,
                 "nature": "B",
                 "createdAt": "2014-03-03T13:42:50.502Z",
@@ -635,7 +635,7 @@
             },
             {
                 "employeeId": "CCB-A1",
-                "role": "CCB-A",
+                "role": "CCB",
                 "intensity": 2,
                 "nature": "D",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -644,21 +644,21 @@
             },
             {
                 "employeeId": "FPjL1",
-                "role": "Feature-Pj-Leader",
+                "role": "FPjM",
                 "intensity": 1,
                 "nature": "B",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": false,
-                "group": "FPjL1"
+                "group": "FPjM"
             },
             {
                 "employeeId": "PdMRBS1",
-                "role": "Product-Manager-RBS-Sys",
+                "role": "RBS",
                 "intensity": 3,
                 "nature": "D",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": false,
-                "group": "PdM"
+                "group": "RBS"
             },
             {
                 "employeeId": "RBS1",
@@ -671,7 +671,7 @@
             },
             {
                 "employeeId": "SPM1",
-                "role": "Strategic-PM",
+                "role": "SPM",
                 "intensity": 1,
                 "nature": "B",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -707,7 +707,7 @@
             },
             {
                 "employeeId": "CCB-A2",
-                "role": "CCB-A",
+                "role": "CCB",
                 "intensity": 5,
                 "nature": "B",
                 "createdAt": "2014-03-05T13:42:50.502Z",
@@ -716,7 +716,7 @@
             },
             {
                 "employeeId": "CPIW1",
-                "role": "CPI-Writer",
+                "role": "CPI",
                 "intensity": 2,
                 "nature": "B",
                 "createdAt": "2014-03-05T13:42:50.502Z",
@@ -778,8 +778,8 @@
                 "group": "OPO"
             },
             {
-                "employeeId": "SM1",
-                "role": "Section-Manager",
+                "employeeId": "DM1",
+                "role": "DM-SM",
                 "intensity": 3,
                 "nature": "B",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -790,23 +790,23 @@
                 "employeeId": "TC1",
                 "role": "TC",
                 "intensity": 2,
-                "nature": "Unknown",
+                "nature": "E",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": false,
                 "group": "TC"
             },
             {
                 "employeeId": "FPjL1",
-                "role": "Feature-Pj-Leader",
+                "role": "FPjM",
                 "intensity": 1,
                 "nature": "B",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": true,
-                "group": "FPjL1"
+                "group": "FPjM"
             },
             {
                 "employeeId": "SPM1",
-                "role": "Strategic-PM",
+                "role": "SPM",
                 "intensity": 1,
                 "nature": "B",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -815,7 +815,7 @@
             },
             {
                 "employeeId": "CCB-A2",
-                "role": "CCB-A",
+                "role": "CCB",
                 "intensity": 2,
                 "nature": "B",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -824,7 +824,7 @@
             },
             {
                 "employeeId": "CPIW1",
-                "role": "CPI-Writer",
+                "role": "CPI",
                 "intensity": 2,
                 "nature": "B",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -833,7 +833,7 @@
             },
             {
                 "employeeId": "TR-A1",
-                "role": "TR-Admin",
+                "role": "TR",
                 "intensity": 1,
                 "nature": "B",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -842,7 +842,7 @@
             },
             {
                 "employeeId": "CPIPjL1",
-                "role": "CPI-Project-Lead",
+                "role": "CPI",
                 "intensity": 2,
                 "nature": "B",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -904,8 +904,8 @@
                 "group": "XFT"
             },
             {
-                "employeeId": "SM1",
-                "role": "Section-Manager",
+                "employeeId": "DM1",
+                "role": "DM-SM",
                 "intensity": 3,
                 "nature": "B",
                 "createdAt": "2014-03-07T13:42:50.502Z",
@@ -923,25 +923,25 @@
             },
             {
                 "employeeId": "FPjL1",
-                "role": "Feature-Pj-Leader",
+                "role": "FPjM",
                 "intensity": 3,
                 "nature": "B",
                 "createdAt": "2014-03-07T13:42:50.502Z",
                 "initiation": false,
-                "group": "FPjL1"
+                "group": "FPjM"
             },
             {
                 "employeeId": "PdMRBS1",
-                "role": "Product-Manager-RBS-Sys",
+                "role": "RBS",
                 "intensity": 1,
                 "nature": "B",
                 "createdAt": "2014-03-07T13:42:50.502Z",
                 "initiation": false,
-                "group": "PdM"
+                "group": "RBS"
             },
             {
                 "employeeId": "CPIW2",
-                "role": "CPI-Writer",
+                "role": "CPI",
                 "intensity": 2,
                 "nature": "B",
                 "createdAt": "2014-03-07T13:42:50.502Z",
@@ -950,7 +950,7 @@
             },
             {
                 "employeeId": "CPIW3",
-                "role": "CPI-Writer",
+                "role": "CPI",
                 "intensity": 1,
                 "nature": "B",
                 "createdAt": "2014-03-07T13:42:50.502Z",
@@ -1003,7 +1003,7 @@
             },
             {
                 "employeeId": "Dsgnr1",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 4,
                 "nature": "R",
                 "createdAt": "2014-03-03T13:42:50.502Z",
@@ -1021,7 +1021,7 @@
             },
             {
                 "employeeId": "Dsgnr2",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 4,
                 "nature": "E",
                 "createdAt": "2014-03-03T13:42:50.502Z",
@@ -1075,7 +1075,7 @@
             },
             {
                 "employeeId": "Dsgnr1",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 4,
                 "nature": "E",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -1084,7 +1084,7 @@
             },
             {
                 "employeeId": "Dsgnr5",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 5,
                 "nature": "R",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -1093,7 +1093,7 @@
             },
             {
                 "employeeId": "Dsgnr6",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 5,
                 "nature": "R",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -1147,7 +1147,7 @@
             },
             {
                 "employeeId": "Dsgnr5",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 4,
                 "nature": "E",
                 "createdAt": "2014-03-05T13:42:50.502Z",
@@ -1156,7 +1156,7 @@
             },
             {
                 "employeeId": "Dsgnr8",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 5,
                 "nature": "E",
                 "createdAt": "2014-03-05T13:42:50.502Z",
@@ -1183,7 +1183,7 @@
             },
             {
                 "employeeId": "Dsgnr5",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 5,
                 "nature": "E",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -1192,7 +1192,7 @@
             },
             {
                 "employeeId": "Dsgnr8",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 5,
                 "nature": "E",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -1245,8 +1245,8 @@
                 "group": "XFT"
             },
             {
-                "employeeId": "SM1",
-                "role": "Section-Manager",
+                "employeeId": "DM1",
+                "role": "DM-SM",
                 "intensity": 5,
                 "nature": "D",
                 "createdAt": "2014-03-07T13:42:50.502Z",
@@ -1308,7 +1308,7 @@
             },
             {
                 "employeeId": "Dsgnr1",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 4,
                 "nature": "U",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -1317,7 +1317,7 @@
             },
             {
                 "employeeId": "Dsgnr7",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 4,
                 "nature": "U",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -1371,7 +1371,7 @@
             },
             {
                 "employeeId": "Dsgnr7",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 4,
                 "nature": "E",
                 "createdAt": "2014-03-05T13:42:50.502Z",
@@ -1433,8 +1433,8 @@
                 "group": "OPO"
             },
             {
-                "employeeId": "SM1",
-                "role": "Section-Manager",
+                "employeeId": "DM1",
+                "role": "DM-SM",
                 "intensity": 2,
                 "nature": "O-Line-Meeting",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -1443,7 +1443,7 @@
             },
             {
                 "employeeId": "Dsgnr1",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 3,
                 "nature": "R",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -1452,7 +1452,7 @@
             },
             {
                 "employeeId": "Dsgnr7",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 4,
                 "nature": "U",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -1505,8 +1505,8 @@
                 "group": "XFT"
             },
             {
-                "employeeId": "SM1",
-                "role": "Section-Manager",
+                "employeeId": "DM1",
+                "role": "DM-SM",
                 "intensity": 2,
                 "nature": "O-Line-Meeting",
                 "createdAt": "2014-03-07T13:42:50.502Z",
@@ -1559,7 +1559,7 @@
             },
             {
                 "employeeId": "Dsgnr1",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 1,
                 "nature": "B",
                 "createdAt": "2014-03-03T13:42:50.502Z",
@@ -1613,7 +1613,7 @@
             },
             {
                 "employeeId": "Dsgnr1",
-                "role": "Designer",
+                "role": "O-XFT",
                 "intensity": 2,
                 "nature": "E",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -1740,7 +1740,7 @@
                 "employeeId": "XFT-SM1",
                 "role": "XFT-Scrum-Master",
                 "intensity": 2,
-                "nature": "Unknown",
+                "nature": "B",
                 "createdAt": "2014-03-03T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT"
@@ -1820,7 +1820,7 @@
                 "employeeId": "XFT-2",
                 "role": "XFT-D",
                 "intensity": 1,
-                "nature": "Unknown",
+                "nature": "B",
                 "createdAt": "2014-03-03T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT"
@@ -1829,7 +1829,7 @@
                 "employeeId": "XFT-5",
                 "role": "XFT-D",
                 "intensity": 1,
-                "nature": null,
+                "nature": "B",
                 "createdAt": "2014-03-03T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT"
@@ -1961,8 +1961,8 @@
                 "group": "XFT"
             },
             {
-                "employeeId": "SM1",
-                "role": "Section-Manager",
+                "employeeId": "DM1",
+                "role": "DM-SM",
                 "intensity": 3,
                 "nature": "B",
                 "createdAt": "2014-03-06T13:42:50.502Z",
@@ -2080,7 +2080,7 @@
                 "employeeId": "DM2",
                 "role": "Department-Manager",
                 "intensity": 3,
-                "nature": "Unknown",
+                "nature": "E",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": true,
                 "group": "DM"
@@ -2114,7 +2114,7 @@
             },
             {
                 "employeeId": "CL1",
-                "role": "Change-Leader",
+                "role": "CL",
                 "intensity": 2,
                 "nature": "O-WoW",
                 "createdAt": "2014-03-05T13:42:50.502Z",
@@ -2305,7 +2305,7 @@
                 "employeeId": "SM2",
                 "role": "Section-Manager",
                 "intensity": 1,
-                "nature": "Unknown",
+                "nature": "E",
                 "createdAt": "2014-03-07T13:42:50.502Z",
                 "initiation": false,
                 "group": "SM"
@@ -2314,7 +2314,7 @@
                 "employeeId": "DM2",
                 "role": "Department-Manager",
                 "intensity": 2,
-                "nature": "Unknown",
+                "nature": "E",
                 "createdAt": "2014-03-07T13:42:50.502Z",
                 "initiation": false,
                 "group": "DM"
@@ -2374,7 +2374,7 @@
             },
             {
                 "employeeId": "CAKM1",
-                "role": "CA-Kanban-Master",
+                "role": "CA-KM",
                 "intensity": 3,
                 "nature": "O-Future-planning-next-release",
                 "createdAt": "2014-03-03T13:42:50.502Z",
@@ -2410,7 +2410,7 @@
             },
             {
                 "employeeId": "DM1",
-                "role": "Department-Manager",
+                "role": "DM-SM",
                 "intensity": 1,
                 "nature": "O-planning",
                 "createdAt": "2014-03-04T13:42:50.502Z",
@@ -2472,8 +2472,8 @@
                 "group": "OPO"
             },
             {
-                "employeeId": "SM1",
-                "role": "Section-Manager",
+                "employeeId": "DM1",
+                "role": "DM-SM",
                 "intensity": 3,
                 "nature": "O-TR-Discussion",
                 "createdAt": "2014-03-06T13:42:50.502Z",
