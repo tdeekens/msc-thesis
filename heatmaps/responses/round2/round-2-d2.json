@@ -1,7 +1,7 @@
 [
     {
         "employeeId": "XFT-SM2",
-        "role": "SM",
+        "role": "XFT-SM",
         "group": "XFT",
         "createdAt": "2014-03-12T13:42:50.502Z",
         "conversations": [
@@ -1077,23 +1077,6 @@
                 "createdAt": "2014-03-12T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT-PG"
-            }
-        ]
-    },
-    {
-        "employeeId": "DM4",
-        "role": "SM-DM",
-        "group": "SM-DM",
-        "createdAt": "2014-03-12T13:42:50.502Z",
-        "conversations": [
-            {
-                "employeeId": "X8",
-                "role": "OPO",
-                "intensity": 2,
-                "nature": "O-Planning-data-future-sprints",
-                "createdAt": "2014-03-12T13:42:50.502Z",
-                "initiation": false,
-                "group": "OPO"
             }
         ]
     },

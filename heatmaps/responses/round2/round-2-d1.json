@@ -1,7 +1,7 @@
 [
     {
         "employeeId": "XFT-SM2",
-        "role": "SM",
+        "role": "XFT-SM",
         "group": "XFT",
         "createdAt": "2014-03-11T13:42:50.502Z",
         "conversations": [
@@ -299,15 +299,6 @@
         "group": "XFT",
         "createdAt": "2014-03-11T13:42:50.502Z",
         "conversations": [
-            {
-                "employeeId": "X1",
-                "role": "SM",
-                "intensity": 4,
-                "nature": "R",
-                "createdAt": "2014-03-11T13:42:50.502Z",
-                "initiation": false,
-                "group": "XFT"
-            }
         ]
     },
     {
@@ -380,12 +371,12 @@
         "conversations": [
             {
                 "employeeId": "X1",
-                "role": "SM",
+                "role": "XFT-SM",
                 "intensity": 2,
                 "nature": null,
                 "createdAt": "2014-03-11T13:42:50.502Z",
                 "initiation": false,
-                "group": "SM"
+                "group": "XFT-SM"
             }
         ]
     },
@@ -528,15 +519,7 @@
         "group": "SM-DM",
         "createdAt": "2014-03-11T13:42:50.502Z",
         "conversations": [
-            {
-                "employeeId": "X8",
-                "role": "OPO",
-                "intensity": 2,
-                "nature": "O-Planning-data-future-sprints",
-                "createdAt": "2014-03-11T13:42:50.502Z",
-                "initiation": false,
-                "group": "OPO"
-            }
+
         ]
     },
     {
