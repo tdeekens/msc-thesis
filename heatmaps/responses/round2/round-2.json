@@ -946,6 +946,60 @@
                 "createdAt": "2014-03-12T13:42:50.502Z",
                 "initiation": false,
                 "group": "O-XFT"
+            },
+            {
+                "employeeId": "XFT-SM2",
+                "role": "XFT-SM",
+                "intensity": 2,
+                "nature": "U",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-SM"
+            },
+            {
+                "employeeId": "XFT-6",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-7",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-9",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-10",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "SSE1",
+                "role": "SSE",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "SSE"
             }
         ]
     },
@@ -1330,6 +1384,24 @@
                 "nature": "B",
                 "createdAt": "2014-03-12T13:42:50.502Z",
                 "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-7",
+                "role": "XFT-D",
+                "intensity": 4,
+                "nature": "E",
+                "createdAt": "2014-03-12T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-8",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "E",
+                "createdAt": "2014-03-12T13:42:50.502Z",
+                "initiation": false,
                 "group": "XFT"
             }
         ]
