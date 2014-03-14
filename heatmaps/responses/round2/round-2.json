@@ -453,6 +453,60 @@
                 "createdAt": "2014-03-12T13:42:50.502Z",
                 "initiation": true,
                 "group": "O-XFT"
+            },
+            {
+                "employeeId": "XFT-7",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-8",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-9",
+                "role": "XFT-D",
+                "intensity": 2,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-10",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "Dsgnr18",
+                "role": "O-XFT",
+                "intensity": 2,
+                "nature": "R",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": true,
+                "group": "O-XFT"
+            },
+            {
+                "employeeId": "SSE1",
+                "role": "SSE",
+                "intensity": 3,
+                "nature": "R",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "SSE"
             }
         ]
     },
@@ -767,6 +821,51 @@
                 "createdAt": "2014-03-12T13:42:50.502Z",
                 "initiation": false,
                 "group": "CIRV"
+            },
+            {
+                "employeeId": "XFT-SM2",
+                "role": "XFT-SM",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-SM"
+            },
+            {
+                "employeeId": "XFT-6",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-8",
+                "role": "XFT-D",
+                "intensity": 4,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-9",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-10",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
             }
         ]
     },
@@ -1035,6 +1134,51 @@
                 "createdAt": "2014-03-12T13:42:50.502Z",
                 "initiation": false,
                 "group": "OPO"
+            },
+            {
+                "employeeId": "XFT-SM2",
+                "role": "XFT-SM",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-SM"
+            },
+            {
+                "employeeId": "XFT-6",
+                "role": "XFT-D",
+                "intensity": 4,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-7",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-8",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-10",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
             }
         ]
     },
@@ -1518,6 +1662,24 @@
                 "createdAt": "2014-03-12T13:42:50.502Z",
                 "initiation": false,
                 "group": "PG"
+            },
+            {
+                "employeeId": "XFT-SM2",
+                "role": "XFT-SM",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-SM"
+            },
+            {
+                "employeeId": "PgM3",
+                "role": "PgM",
+                "intensity": 5,
+                "nature": "O-Work-Packages-For-Next-Sprint",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": false,
+                "group": "PgM"
             }
         ]
     },
@@ -1571,6 +1733,24 @@
                 "createdAt": "2014-03-11T13:42:50.502Z",
                 "initiation": true,
                 "group": "XFT-SM"
+            },
+            {
+                "employeeId": "XFT-SM2",
+                "role": "XFT-SM",
+                "intensity": 2,
+                "nature": "E",
+                "createdAt": "2014-03-12T13:42:50.502Z",
+                "initiation": true,
+                "group": "XFT-SM"
+            },
+            {
+                "employeeId": "OPO5",
+                "role": "OPO",
+                "intensity": 5,
+                "nature": "O-Planning-next-sprint",
+                "createdAt": "2014-03-13T13:42:50.502Z",
+                "initiation": true,
+                "group": "OPO5"
             }
         ]
     }
