@@ -162,7 +162,7 @@
                 "employeeId": "DM4",
                 "role": "SM-DM",
                 "intensity": 1,
-                "nature": "O-Ask-how-the-team-is-doing",
+                "nature": "G-O",
                 "createdAt": "2014-03-11T13:42:50.502Z",
                 "initiation": false,
                 "group": "SM-DM"
@@ -305,7 +305,7 @@
                 "employeeId": "DM4",
                 "role": "SM-DM",
                 "intensity": 1,
-                "nature": "O-Approval-of-Order-in-Gorden",
+                "nature": "G-O",
                 "createdAt": "2014-03-10T13:42:50.502Z",
                 "initiation": true,
                 "group": "SM-DM"
@@ -386,7 +386,7 @@
                 "employeeId": "DM4",
                 "role": "SM-DM",
                 "intensity": 1,
-                "nature": "O-Progress-of-sprint",
+                "nature": "G-O",
                 "createdAt": "2014-03-11T13:42:50.502Z",
                 "initiation": false,
                 "group": "SM-DM"
@@ -404,7 +404,7 @@
                 "employeeId": "Dsgnr13",
                 "role": "O-XFT",
                 "intensity": 1,
-                "nature": "O-Borrowing-Hardware",
+                "nature": "G-H",
                 "createdAt": "2014-03-11T13:42:50.502Z",
                 "initiation": true,
                 "group": "O-XFT"
@@ -817,7 +817,7 @@
                 "employeeId": "Cirv2",
                 "role": "CIRV",
                 "intensity": 3,
-                "nature": "O-Fix-Node",
+                "nature": "G-H",
                 "createdAt": "2014-03-12T13:42:50.502Z",
                 "initiation": false,
                 "group": "CIRV"
@@ -1443,7 +1443,7 @@
                 "employeeId": "ITS1",
                 "role": "IT-S",
                 "intensity": 1,
-                "nature": "O-Reported-Fault-on-Team-Server",
+                "nature": "G-H",
                 "createdAt": "2014-03-10T13:42:50.502Z",
                 "initiation": true,
                 "group": "IT-S"
@@ -1595,7 +1595,7 @@
                 "employeeId": "XFT-SM2",
                 "role": "XFT-SM",
                 "intensity": 1,
-                "nature": "O-Morning-Meeting",
+                "nature": "G-O",
                 "createdAt": "2014-03-11T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT-SM"
@@ -1748,7 +1748,7 @@
                 "employeeId": "PgM3",
                 "role": "PgM",
                 "intensity": 5,
-                "nature": "O-Work-Packages-For-Next-Sprint",
+                "nature": "G-F",
                 "createdAt": "2014-03-13T13:42:50.502Z",
                 "initiation": false,
                 "group": "PgM"
@@ -1819,7 +1819,7 @@
                 "employeeId": "OPO5",
                 "role": "OPO",
                 "intensity": 5,
-                "nature": "O-Planning-next-sprint",
+                "nature": "G-F",
                 "createdAt": "2014-03-13T13:42:50.502Z",
                 "initiation": true,
                 "group": "OPO5"
