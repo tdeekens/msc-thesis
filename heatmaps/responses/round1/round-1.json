@@ -153,7 +153,7 @@
                 "employeeId": "SM5",
                 "role": "Section-Manager",
                 "intensity": 5,
-                "nature": "O-future",
+                "nature": "G-F",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": false,
                 "group": ""
@@ -1990,7 +1990,7 @@
                 "employeeId": "DM2",
                 "role": "Department-Manager",
                 "intensity": 5,
-                "nature": "O-Recruitment",
+                "nature": "O",
                 "createdAt": "2014-03-03T13:42:50.502Z",
                 "initiation": true,
                 "group": "DM"
@@ -2026,7 +2026,7 @@
                 "employeeId": "DM2",
                 "role": "Department-Manager",
                 "intensity": 3,
-                "nature": "O-Recruitment-Way-of-Working",
+                "nature": "O",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": true,
                 "group": "DM"
@@ -2035,7 +2035,7 @@
                 "employeeId": "PgM1",
                 "role": "PgM",
                 "intensity": 3,
-                "nature": "O-Project-Steering",
+                "nature": "O-F",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": false,
                 "group": "PgM"
@@ -2044,7 +2044,7 @@
                 "employeeId": "PgM3",
                 "role": "PgM",
                 "intensity": 3,
-                "nature": "O-Project-Steering",
+                "nature": "O-F",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": false,
                 "group": "PgM"
@@ -2062,7 +2062,7 @@
                 "employeeId": "SM3",
                 "role": "Section-Manager",
                 "intensity": 2,
-                "nature": "O-Way-of-Working",
+                "nature": "G-WoW",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": false,
                 "group": "SM"
@@ -2089,7 +2089,7 @@
                 "employeeId": "TM1",
                 "role": "TM",
                 "intensity": 3,
-                "nature": "O-Goals-WOW",
+                "nature": "G-WOW",
                 "createdAt": "2014-03-05T13:42:50.502Z",
                 "initiation": false,
                 "group": "TM"
@@ -2098,7 +2098,7 @@
                 "employeeId": "SrM1",
                 "role": "Sector-Manager",
                 "intensity": 2,
-                "nature": "O-Customer-Escalation",
+                "nature": "G-CC",
                 "createdAt": "2014-03-05T13:42:50.502Z",
                 "initiation": false,
                 "group": "SrM"
@@ -2107,7 +2107,7 @@
                 "employeeId": "SM3",
                 "role": "Section-Manager",
                 "intensity": 2,
-                "nature": "O-WoW",
+                "nature": "G-WoW",
                 "createdAt": "2014-03-05T13:42:50.502Z",
                 "initiation": false,
                 "group": "SM"
@@ -2116,7 +2116,7 @@
                 "employeeId": "CL1",
                 "role": "CL",
                 "intensity": 2,
-                "nature": "O-WoW",
+                "nature": "G-WoW",
                 "createdAt": "2014-03-05T13:42:50.502Z",
                 "initiation": false,
                 "group": "CL"
@@ -2125,7 +2125,7 @@
                 "employeeId": "SM4",
                 "role": "Section-Manager",
                 "intensity": 2,
-                "nature": "O-Customer-Escalation",
+                "nature": "G-CC",
                 "createdAt": "2014-03-05T13:42:50.502Z",
                 "initiation": false,
                 "group": "SM"
@@ -2134,7 +2134,7 @@
                 "employeeId": "DM3",
                 "role": "Department-Manager",
                 "intensity": 2,
-                "nature": "O-Goals",
+                "nature": "G-F",
                 "createdAt": "2014-03-05T13:42:50.502Z",
                 "initiation": true,
                 "group": "DM"
@@ -2152,7 +2152,7 @@
                 "employeeId": "TM1",
                 "role": "TM",
                 "intensity": 1,
-                "nature": "O-Goals",
+                "nature": "G-F",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": false,
                 "group": "TM"
@@ -2161,7 +2161,7 @@
                 "employeeId": "SrM1",
                 "role": "Sector-Manager",
                 "intensity": 2,
-                "nature": "O-Customer-Situation",
+                "nature": "G-CC",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": false,
                 "group": "SrM"
@@ -2170,7 +2170,7 @@
                 "employeeId": "SM4",
                 "role": "Section-Manager",
                 "intensity": 2,
-                "nature": "O-Program-Setup-AEM-Customer-Situation",
+                "nature": "G-CC",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": false,
                 "group": "SM"
@@ -2179,7 +2179,7 @@
                 "employeeId": "SM5",
                 "role": "Section-Manager",
                 "intensity": 3,
-                "nature": "O-Program-Setup-AEM-Customer-Situation",
+                "nature": "G-CC",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": false,
                 "group": "SM"
@@ -2188,7 +2188,7 @@
                 "employeeId": "OPO4",
                 "role": "OPO",
                 "intensity": 2,
-                "nature": "O-Program-Setup-Customer-Status",
+                "nature": "G-CC",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": true,
                 "group": "OPO"
@@ -2197,7 +2197,7 @@
                 "employeeId": "XFT-SM1",
                 "role": "XFT-Scrum-Master",
                 "intensity": 2,
-                "nature": "O-Project-and-Customer-Status",
+                "nature": "G-CC",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT"
@@ -2206,7 +2206,7 @@
                 "employeeId": "XFT-2",
                 "role": "XFT-D",
                 "intensity": 2,
-                "nature": "O-Project-and-Customer-Status",
+                "nature": "G-CC",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT"
@@ -2215,7 +2215,7 @@
                 "employeeId": "XFT-3",
                 "role": "XFT-D",
                 "intensity": 2,
-                "nature": "O-Project-and-Customer-Status",
+                "nature": "G-CC",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT"
@@ -2224,7 +2224,7 @@
                 "employeeId": "XFT-4",
                 "role": "XFT-D",
                 "intensity": 2,
-                "nature": "O-Project-and-Customer-Status",
+                "nature": "G-CC",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT"
@@ -2233,7 +2233,7 @@
                 "employeeId": "XFT-5",
                 "role": "XFT-D",
                 "intensity": 2,
-                "nature": "O-Project-and-Customer-Status",
+                "nature": "G-CC",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT"
@@ -2242,7 +2242,7 @@
                 "employeeId": "XFT-PG1",
                 "role": "XFT-PG",
                 "intensity": 2,
-                "nature": "O-Project-and-Customer-Status",
+                "nature": "G-CC",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT"
@@ -2251,7 +2251,7 @@
                 "employeeId": "OPO1",
                 "role": "OPO",
                 "intensity": 3,
-                "nature": "O-Program-Setup-Customer-Status",
+                "nature": "G-CC",
                 "createdAt": "2014-03-06T13:42:50.502Z",
                 "initiation": true,
                 "group": "OPO"
@@ -2323,7 +2323,7 @@
                 "employeeId": "TM1",
                 "role": "TM",
                 "intensity": 2,
-                "nature": "O-Behaviour",
+                "nature": "O",
                 "createdAt": "2014-03-07T13:42:50.502Z",
                 "initiation": false,
                 "group": "TM"
@@ -2332,7 +2332,7 @@
                 "employeeId": "DM3",
                 "role": "Department-Manager",
                 "intensity": 1,
-                "nature": "O-Goals",
+                "nature": "G-F",
                 "createdAt": "2014-03-07T13:42:50.502Z",
                 "initiation": false,
                 "group": "DM"
@@ -2358,7 +2358,7 @@
                 "employeeId": "OPO1",
                 "role": "OPO",
                 "intensity": 2,
-                "nature": "O-Planning-data-future-sprints",
+                "nature": "G-F",
                 "createdAt": "2014-03-03T13:42:50.502Z",
                 "initiation": true,
                 "group": "OPO"
@@ -2367,7 +2367,7 @@
                 "employeeId": "TC1",
                 "role": "TC",
                 "intensity": 3,
-                "nature": "O-Future-planning-next-release",
+                "nature": "G-F",
                 "createdAt": "2014-03-03T13:42:50.502Z",
                 "initiation": false,
                 "group": "TC"
@@ -2376,7 +2376,7 @@
                 "employeeId": "CAKM1",
                 "role": "CA-KM",
                 "intensity": 3,
-                "nature": "O-Future-planning-next-release",
+                "nature": "G-F",
                 "createdAt": "2014-03-03T13:42:50.502Z",
                 "initiation": false,
                 "group": "KM"
@@ -2385,7 +2385,7 @@
                 "employeeId": "APO1",
                 "role": "APO",
                 "intensity": 3,
-                "nature": "O-Future-planning-next-release",
+                "nature": "G-F",
                 "createdAt": "2014-03-03T13:42:50.502Z",
                 "initiation": false,
                 "group": "APO"
@@ -2412,7 +2412,7 @@
                 "employeeId": "DM1",
                 "role": "DM-SM",
                 "intensity": 1,
-                "nature": "O-planning",
+                "nature": "G-F",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": false,
                 "group": "DM"
@@ -2421,7 +2421,7 @@
                 "employeeId": "TC1",
                 "role": "TC",
                 "intensity": 3,
-                "nature": "O-Planning",
+                "nature": "G-F",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": true,
                 "group": "TC"
@@ -2430,7 +2430,7 @@
                 "employeeId": "OPO4",
                 "role": "OPO",
                 "intensity": 5,
-                "nature": "O-scenario-planning",
+                "nature": "G-F",
                 "createdAt": "2014-03-04T13:42:50.502Z",
                 "initiation": true,
                 "group": "OPO"
@@ -2439,7 +2439,7 @@
                 "employeeId": "APO1",
                 "role": "APO",
                 "intensity": 3,
-                "nature": "O-Planning-Features",
+                "nature": "G-F",
                 "createdAt": "2014-03-05T13:42:50.502Z",
                 "initiation": false,
                 "group": "APO"
@@ -2448,7 +2448,7 @@
                 "employeeId": "PgM2",
                 "role": "PgM",
                 "intensity": 3,
-                "nature": "O-Planning-Features",
+                "nature": "G-F",
                 "createdAt": "2014-03-05T13:42:50.502Z",
                 "initiation": false,
                 "group": "PgM"
@@ -2457,7 +2457,7 @@
                 "employeeId": "OPO4",
                 "role": "OPO",
                 "intensity": 2,
-                "nature": "O-Demo",
+                "nature": "O",
                 "createdAt": "2014-03-05T13:42:50.502Z",
                 "initiation": false,
                 "group": "OPO"
@@ -2511,7 +2511,7 @@
                 "employeeId": "APO1",
                 "role": "APO",
                 "intensity": 4,
-                "nature": "O-Backlog-Planning",
+                "nature": "G-F",
                 "createdAt": "2014-03-07T13:42:50.502Z",
                 "initiation": false,
                 "group": "APO"
@@ -2520,7 +2520,7 @@
                 "employeeId": "TC1",
                 "role": "TC",
                 "intensity": 4,
-                "nature": "O-Backlog-Planning",
+                "nature": "G-F",
                 "createdAt": "2014-03-07T13:42:50.502Z",
                 "initiation": false,
                 "group": "TC"
@@ -2529,7 +2529,7 @@
                 "employeeId": "Cirv1",
                 "role": "CIRV",
                 "intensity": 2,
-                "nature": "O-Main-Track-Planning",
+                "nature": "G-F",
                 "createdAt": "2014-03-07T13:42:50.502Z",
                 "initiation": false,
                 "group": "CIRV"
