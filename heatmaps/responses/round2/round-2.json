@@ -1091,6 +1091,69 @@
                 "createdAt": "2014-03-13T13:42:50.502Z",
                 "initiation": false,
                 "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-SM2",
+                "role": "XFT-SM",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-14T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-SM"
+            },
+            {
+                "employeeId": "XFT-6",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-14T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-8",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-14T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-9",
+                "role": "XFT-D",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-14T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-10",
+                "role": "XFT-D",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-14T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT"
+            },
+            {
+                "employeeId": "XFT-PG2",
+                "role": "XFT-PG",
+                "intensity": 3,
+                "nature": "B",
+                "createdAt": "2014-03-14T13:42:50.502Z",
+                "initiation": false,
+                "group": "XFT-PG"
+            },
+            {
+                "employeeId": "OPO5",
+                "role": "OPO",
+                "intensity": 1,
+                "nature": "B",
+                "createdAt": "2014-03-14T13:42:50.502Z",
+                "initiation": false,
+                "group": "OPO"
             }
         ]
     },
