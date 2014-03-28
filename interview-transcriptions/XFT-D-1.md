@@ -206,3 +206,16 @@
 – How would you describe different interests between the Department Manager, Section Manager and Project Manager? Because the project manager seems to be very time focused.
 
 – That’s a struggle that has been going on for Ericsson for as long as I know. I think it’s a healthy struggle. The department, no the section managers should be taking more into account the long term development of the employees and the product and stuff like that. The project manager should care for his project. I think that is healthy struggle. So that struggle I see no conflict in. It should be like that to get the most of the situation.
+
+– But there should be more feedback between the two as you said? At times.
+
+– Somehow I’m lacking some kind of feedback. The Lean book we have read was talking about isolated islands between design and test and so on, but now we are also isolated islands, it’s just whenever the XFT is an isolated island, sometimes it feels like, what is the improvement then?
+
+– We talked a bit about the problematic communication, you have lots coming towards you and you don’t spread out enough. Do you think there is communication with some structures that works really well?
+
+– All the teams get a lot in, a lot of mails are running around with a lot of information about the whole BNET [???] structure I guess.
+If I feel that something should be raised, might need to be communicated to all the teams, I go to PGs and I talk to them. I, at least, think that’s their task to spread it out because they might now, ok this is useful information for 2 other teams, not everybody, they can do the filtering out so to speak. Or this is good for everybody, then they can spread it.
+
+– Any other things that bother you in your working environment?
+
+– Not with the communication.
