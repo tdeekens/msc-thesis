@@ -130,3 +130,47 @@ But I mean the links are always put up, as soon as we create a document we kind 
 – Improvements of working environment, ways of working?
 
 – Most people complain about the development environment, that 	it takes a lot of time to build and test and stuff like that. It is true, it takes a while to deliver code, to go through all verifications. Would be nice to have it automated, when you don’t need to care about the delivery, you don’t need to sit there until it tests everything. That is one thing that the organization itself is trying to fix, to lessen the time you need to deliver code. As a developer I can reflect on the environment always. So, build and test environment, at least for me it takes a while to build and deliver code. It could be done better.
+
+– Agile-wise?
+
+– I said that before, I think. The retrospectives are very important, they give a lot. It doesn’t master if it’s a failed sprint, if it’s a bad sprint, if it’s a good sprint, as long as you reflect on the retrospectives what you did good and what you did bad. Take the bad and plan how to fix it, make the fixes regular habits to avoid the things that you did bad in the sprint. That’s the thing all of the teams that are working agile need to do more and more or should focus the most at the end of every sprint.
+
+– An everything that is said in the retrospectives is usually improved upon also.
+
+– I think so. In our team we do it as action points, we come with the most prioritized thing, so we vote in the retrospective what we need to work with in the long run and then we put on action points, ok we need to work better in this area because we see that we have [??????] what do we need to do? We try to put that in our daily work; we have action points on your white board, it’s a reminder, that you need to focus on this because it has been bad. It’s very important in agile, at least in Scrum, that you do retrospectives very good. Because that points out planning problems and other problems so to say.
+
+– Line management vs agile branch - how well are they integrated?
+
+– I will probably look at this this way… Even if they have their own, I don’t know if they have their own way of working or how are they working, but they look into our impediments, from the lines we get team coaches, which is kind of a fluffy word, but I’ve seen examples where they have actually taken out the impediments for us, they have coached us when we had problem regarding the agile ways. So they are our contact persons who we can go to when we had a very bad sprint and get help from them or when you kind of see that, ok this is a failed sprint we need to do some session with someone just to complain, so we get that support. The coaches that we get are from the line management, so they are aware of the things, they can lift it up and the management is always aware of the things that we complain about all the time. Sometimes you miss the information, but that’s probably the way the channels, they way people communicate, kind of miss out the details or the detailed are missed out, but at least the point in made upwards, the management.
+
+– Is this what you expect or do you want something else?
+
+– From my side I think it is usually the XFTs that make an effort to update, to send information, but it has been less from the line management to inquire, do inquiries on how it is going, are there any impediments. So it is usually one-directional, it’s very seldom  that it is two-directional so to say, the communication. I would probably prefer to get a mail sometime with «How is it going, what is happening? What’s the status of the sprint?». Sure they are busy, they have meetings and stuff like that, we understand that. So it should be more two-directional so to say instead of one-directional, that XFT always uplifts things to the management. That way I think it could be better at least on my side.
+
+– As far as we know you didn’t have a team coach these past weeks…
+
+– Yeah we didn’t, but we had a person form management, that we could actually talk to. We haven’t done that, but we didn’t have a team coach on paper, but we could anyhow take it to other coaches around here and get help, that was there always.
+
+– So it did’t affect the situation in any way?
+
+– Somehow it did. Somehow we felt like, should we go and talk or should we not, should we try to solve it ourselves, I think it’s more of a personal thing, the team. I don’t know how to explain it, we could have done it but we didn’t in the long run. Other than that I think if we had a dedicated coach then it’s easier to take the problems.
+
+– Take DM, PO, PgM, in what way do they affect the team?
+
+– PgM the most, I think. They are the ones pushing WPs to the XFTs. They are the ones who hold the keys to what should be done or what should be taken into planning, they sync with the OPOs that we are aware of. If we have major change in the planning in the next 2 sprints or something then we get informed to OPO, because she gets informed to the product manager. It that sense we are kind of aware of how the next 2 sprints look like, what we might run into. I think line management is more on the person development,  it’s focuses not on the development per se, but on individual performances and things. Different types of communication to those roles so to say.
+
+– Do they have different interests at times, that cause conflict for you?
+
+– We have had some experience with that, but we usually try to channel that through the OPO or scrum master, I think it’s usually channeled via scrum master first, then it’s channeled towards OPO. I thin the OPO tries to solve it for the team, at least it has been like that.
+
+– What were those experiences?
+
+– It could be two different projects that run in parallel, in the same sprint you can have WPs from two different projects that you pick stories in from. We have 2 WPs and you take 1 story from this WP and the other story from the other WP. Sometimes it’s like you need to do more in this one, but it was upland for. In that sense I think it is sent through the project manager, that you need to do this more, and they try to expand the stories so to say, that it has been [????], but then you take that and probably [???] this question back to the OPO, that we have to deliver here and there, so we can not do it at the moment, so it moved towards OPO, the question and handling of questions so to say.
+
+– That works well?
+
+– It has worked well. We haven’t had something like ok, cancel all the stories on that and continue with this, because it has been prioritized more. We haven’t had that problem yet. I think it has worked pretty well, the OPO solves the issues.
+
+– Anything else to mention that bothers you?
+
+– No.
