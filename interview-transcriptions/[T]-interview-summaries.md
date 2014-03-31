@@ -1,0 +1,117 @@
+# XFT-D-1
+
+- End of Responsibilities
+   - Unclear for XFT members (responsibilities do not have clear boundaries)
+   - Important when trying to gather information as sources are often unknown
+   - Finding a relevant source is time consuming and lowers sprint output
+- Lack of Structure
+   - Leads to longer time until problem resolution
+- Feedback roundtrip
+   - Communication cycles long when suggestions for improvements made
+- Information flood & filtering
+   - Too much and too little information reaches XFTs: filtering wished for
+- Information spreading
+   - Lack thereof still always try to share improvements do not follow proclaimed facts
+- Technical environment
+   - Interrupts sprints lowers planned velocity
+   - No internal interference leads to production
+- Missing Vision
+   - Short term focus lessens ownership
+   - Lacks clear responsibility for components (code review)
+- Healthy Struggle
+   - Between DM and PgM
+
+# XFT-D-2
+
+- External response time
+   - Short term planning (flexible backlog) leads to faster feedback for XFTs
+- Unplanned sprint disruptions
+   - Breaks comfort of planned backlog
+   - Previous sprint feed back into current one (affects burn down)
+   - Negative, immediate effects of non working environment
+- SM as spokesperson
+   - Try for 30 - 60 minutes otherwise delegate communication to SM, PG
+- Interdependent stories
+   - Cause loads of communication and upfront analysis
+- Sharing with Management
+   - Improved after transformation but varied during transformation
+- Team knowledge
+   - Spread best through demos when sprints in sync
+   - Simplifies later finding of knowledge sources
+- Information loss
+   - Within team for unknown reason but most likely due to low effort
+- Over Information
+   - Lots of things related to work done related to it
+- Development comfort zone
+   - Lowers need for communication and sets stage for defined environment
+   - Unknown domains bring unknown communication environments
+- Capture Information
+   - In Wikis for later lookup and async information gathering
+- Perfect Sprint: burn down to zero
+- Bad Sprint
+   - Improve on DoD and task planning
+- Broad horizon
+   - XFT members should not have specific role
+   - Still find comfort zone to excel in
+- Automation of Development Environment
+   - Deliver faster
+- One- vs. two-directional information flow
+   - Management pulls but does not push information
+- WP mashup
+   - Pushed by PgM and tends to cause unplanned work as  planning complexity rises
+
+# XFT-PG-1
+
+- Role Understanding
+   - Not too good as not communicated well enough
+- Decision responsibilities
+   - Unclear for XFTs
+   - Blurred between TMs and PGs
+- Overloaded solution responsibility
+   - XFTs have to maintain their technical environment
+- Communication spider web
+   - PGs stand between TMs, OPOs and XFTs
+- Development Mission
+   - Stalling in process by unfamiliarity
+- PGs as Bottlenecks
+   - N° of teams growing but PGs not
+- Multiple perspectives and nescience
+   - Magnitude of influences are hard to understand
+   - Islands of knowledge
+- Information overdosis vs. missing information
+   - Hard to reach out and to value what you get
+- Direct Information
+   - Regarding development and help works well
+- Hard issues
+   - XFT-SM only responsible for soft impediments SMs acting as relief valve
+- Team empowerment
+   - Ownage of too many domains causes progress to halt
+   - Upward communication via OPO intended (also for coordination)
+- Team interdependence
+   - Makes it impossible to demand of teams to know other teams' domain and status
+
+# XFT-SM-1
+
+- Agility differs
+   - LM and agile branch are at a different status regarding agile
+   - Track delivery feeds back and hinders continous delivery
+- Void of Responsibility
+   - Troublesome finding responsible co-worker
+   - Agile traditionally does not scale there
+- Self Validating Meetings
+   - Too much unrelated information
+- Natural (non static) Communication
+   - Whenever needed and only when of interest
+   - Facilitated by LM and more async than sync in nature
+   - PMs have to aggregate lots of knowledge, teams need partial (same meeting though)
+- Lack of Vision
+   - Should be communicate more by PGs
+   - XFTs tend to look downwards and understanding the vision is a low priority
+- Sprint Interruptions
+   - Feed back of TR or CI
+   - Leads to sprint's focus being shifted towards unplanned work
+- Productive Sprint
+   - Defined packackes, no disturbance and single purpose
+- High Plannings Blind Folds
+   - Details hidden and taken care of in planning
+   - Dependencies arise during sprint
