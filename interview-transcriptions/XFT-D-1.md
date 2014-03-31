@@ -49,7 +49,7 @@
 
 – How do you think you could be better supported by your environment? Because you say you have a lot of responsibilities and sometimes your environment demands too much, as you said, the nodes might not be working. Is there some lack of support?
 
-– Mainly, I think there are several steps that could be taken. First, the ones that actually do have the power to do something, they could at least listen. Next step is, ok, then they could inform us who to speak to that actually can do something. Someone should know that. And then yeah to move on, to remove impediments that are frustrating. 
+– Mainly, I think there are several steps that could be taken. First, the ones that actually do have the power to do something, they could at least listen. Next step is, ok, then they could inform us who to speak to that actually can do something. Someone should know that. And then yeah to move on, to remove impediments that are frustrating.
 
 – Do you feel like the parts of the organization are different in their support towards agile?
 
