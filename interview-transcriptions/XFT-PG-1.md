@@ -1,5 +1,4 @@
-[Introduction]
-#What is your role in the organization?
+# What is your role in the organization?
 
 I’m a PG. I’m half time PG, half-time team member. So, I share my time.
 

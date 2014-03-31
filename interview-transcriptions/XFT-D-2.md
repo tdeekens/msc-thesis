@@ -1,4 +1,3 @@
-[Introduction]
 # What is your role in the organization?
 
 Software developer. I have been working here for three years.

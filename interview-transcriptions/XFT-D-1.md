@@ -1,17 +1,16 @@
-[Introduction]
-#What is your role in the organization?
+# What is your role in the organization?
 
 My role is an XFT member.
 
-#What are your key responsibilities?
+# What are your key responsibilities?
 
 I don't see that I have any key responsibilities, because I can do a little bit of everything.
 
-#Mostly development work maybe?
+# Mostly development work maybe?
 
 Sure, taking part of the XFT work.
 
-#Have you worked here before they started the agile transformation?
+# Have you worked here before they started the agile transformation?
 
 Yes.
 
