@@ -105,13 +105,11 @@
    - Facilitated by LM and more async than sync in nature
    - PMs have to aggregate lots of knowledge, teams need partial (same meeting though)
 - Lack of Vision
-   - Should be communicate more by PGs
-   - XFTs tend to look downwards and understanding the vision is a low priority
+   - Should be communicated more by PMs and PGs maybe OPOs
+   - Vision is not communicated downwards (not a priority by PgMs)
 - Sprint Interruptions
    - Feed back of TR or CI
    - Leads to sprint's focus being shifted towards unplanned work
 - Productive Sprint
    - Defined packackes, no disturbance and single purpose
-- High Plannings Blind Folds
-   - Details hidden and taken care of in planning
-   - Dependencies arise during sprint
+- White box analysis is partly left to team to understand dependencies
