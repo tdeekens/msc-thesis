@@ -4,10 +4,12 @@
    - Unclear for XFT members (responsibilities do not have clear boundaries)
    - Important when trying to gather information as sources are often unknown
    - Finding a relevant source is time consuming and lowers sprint output
-- Lack of Structure
+- Lack of Structure in Agile Context
+   - Contact person not visible
    - Leads to longer time until problem resolution
-- Feedback roundtrip
-   - Communication cycles long when suggestions for improvements made
+- Feedback transperancy & roundtrip time
+   - Feedback during solving the impediments not present
+   - Roundtrip takes long and outcome not visible at times
 - Information flood & filtering
    - Too much and too little information reaches XFTs: filtering wished for
 - Information spreading
@@ -16,7 +18,7 @@
    - Interrupts sprints lowers planned velocity
    - No internal interference leads to production
 - Missing Vision
-   - Short term focus lessens ownership
+   - Lack of immediate goals
    - Lacks clear responsibility for components (code review)
 - Healthy Struggle
    - Between DM and PgM
@@ -65,7 +67,7 @@
 - Role Understanding
    - Not too good as not communicated well enough
 - Decision responsibilities
-   - Unclear for XFTs
+   - Unclear for XFTs with respect to PG
    - Blurred between TMs and PGs
 - Overloaded solution responsibility
    - XFTs have to maintain their technical environment
@@ -76,7 +78,7 @@
 - PGs as Bottlenecks
    - N° of teams growing but PGs not
 - Multiple perspectives and nescience
-   - Magnitude of influences are hard to understand
+   - Discovery of a specific piece of information is not always planned
    - Islands of knowledge
 - Information overdosis vs. missing information
    - Hard to reach out and to value what you get
@@ -85,7 +87,6 @@
 - Hard issues
    - XFT-SM only responsible for soft impediments SMs acting as relief valve
 - Team empowerment
-   - Ownage of too many domains causes progress to halt
    - Upward communication via OPO intended (also for coordination)
 - Team interdependence
    - Makes it impossible to demand of teams to know other teams' domain and status

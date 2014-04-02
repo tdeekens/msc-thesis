@@ -9,7 +9,7 @@
 
 - Not clear borders of responsibility, teams might not know when to contact PGs
 - Not enough support for the teams, too many responsibilities and not enough competence.
-- PGs as bottlenecks, hte number of teams rises, numbers of PGs doesn't
+- PGs as bottlenecks, the number of teams rises, numbers of PGs doesn't
 - Hard to know what is going on in the organisation, not well communicated
   - Too much information, don't know how to filter
   - Team's contact with TM is only via PG
@@ -22,12 +22,12 @@
 - Lack of a middle man to take out parts of responsibilities and facilitate communication
   - Often do not know who to contact about an issue
   - A lot of communication based on personal contacts
+  - Information overflow, don't know how to filter it out
 - Team coach
   - To take out impediments the team can not handle
   - Provide outside view on things
   - Things happend very quickly when there is one (SM's manager stepping in in the absence of a SM)
 - No transparency in handling of impediments
-- Information overflow, don't know how to filter it out
 - Not sufficiently aware of what is going on in the organisation
   - What are other teams working on?
   - Are there any new ideas for doing this and this and this

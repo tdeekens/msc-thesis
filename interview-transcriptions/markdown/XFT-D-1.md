@@ -184,7 +184,7 @@ But that was very specific, the requirements for documentation, that’s why I t
 
 # So it would be a project manager’s responsibility to communicate it or rather OPO’s or would you see..?
 
-I would say it would be nice for the project manager, yes. And it would be very nice to have these intermediate goals that are very clear. But thenI have, we had a discussion with a project manager, and the problem is that the project manager sees it very clear, the goal, but for me it’s not, int’s not clear. You say something like that, but the impact on my work, I have no idea. It would be nice to also know a bit of an impact.
+I would say it would be nice for the project manager, yes. And it would be very nice to have these intermediate goals that are very clear. But then I have, we had a discussion with a project manager, and the problem is that the project manager sees it very clear, the goal, but for me it’s not, int’s not clear. You say something like that, but the impact on my work, I have no idea. It would be nice to also know a bit of an impact.
 
 # Would it also be more motivating to know the overall goal?
 
