@@ -14,7 +14,7 @@
 - Diversity of WPs
    - Diversity of WPs, would have preferred to focus on one domain
 
- # Interview 2
+# Interview 2
 
  - Overloaded solution responsibility
    - Not enough support for the teams, too many responsibilities and not enough competence
@@ -44,3 +44,12 @@
    - No agreement on the level of detail work should be provided to the team, different views from different perspectives
    - Not enough feedback btween PgM and the team
    - Lack of immediate goals
+- Feedback transperancy & roundtrip time
+   - Feedback during solving the impediments not present
+   - Roundtrip takes long and outcome not visible at times
+   - No transparency in handling of impediments
+   - Things happend very quickly when there is one (SM's manager stepping in in the absence of a SM)
+- Information discovery by accident
+  - Not sufficiently aware of what is going on in the organisation
+  - What are other teams working on?
+  - Are there any new ideas for doing this and this and this

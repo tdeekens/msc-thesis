@@ -6,7 +6,6 @@
    - Finding a relevant source is time consuming and lowers sprint output
 - Lack of Structure in Agile Context
    - Contact person not visible
-   - Leads to longer time until problem resolution
 - Feedback transperancy & roundtrip time
    - Feedback during solving the impediments not present
    - Roundtrip takes long and outcome not visible at times
