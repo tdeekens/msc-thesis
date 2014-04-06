@@ -53,3 +53,6 @@
   - Not sufficiently aware of what is going on in the organisation
   - What are other teams working on?
   - Are there any new ideas for doing this and this and this
+- Technical environment
+   - Interrupts sprints lowers planned velocity
+   - No internal interference leads to production
