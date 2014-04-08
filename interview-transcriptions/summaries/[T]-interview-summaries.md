@@ -113,3 +113,27 @@
 - Productive Sprint
    - Defined packackes, no disturbance and single purpose
 - White box analysis is partly left to team to understand dependencies
+
+# DM-1
+
+- Low responsibilities
+   - Solve issues as low as possible, only bubble up if needed
+   - Not always possible due to coordination need even XFTs expect more
+   - Smaller world for teams wanted but not always possible
+- Balance the transformation
+   - XFTs are established 
+   - Losing depth by cross view even though depth has been there (not supported by organisation)
+   - Strong feature force pulls on code and architectural quality
+- Information sharing (pseudo triangle)
+   - OPO, Project Managers and DM
+   - Parallel communication flow at different speeds both or solely one path
+   - Creates rumours and uncertainty - both are waste
+   - Is caused by organisational structure (cross-functional organisation)
+- Macro information sharing
+   - Two programs different time horizons and types of work but same product
+   - Communication takes program direction, line tries to balance but improvement needed
+   - Threat of detructing other team's work by overlaps 
+   - Strategic decision to keep it as one piece of software (price and cost argument)
+- Team communication
+   - Informal presence but don't attend meetings
+   - Not shortcutting intended communication path through SM

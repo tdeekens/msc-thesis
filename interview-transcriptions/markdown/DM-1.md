@@ -21,7 +21,7 @@ Depends on what you mean but I've been working here in Lindholmen in other organ
 ### Do you see any obstacles with the organisation and how it is structured? Any obstacles that can hinder the transformation towards agile - maybe some parts are incompatible?
 
 I think we have done some changes since we started. We have done some changes in order to better support the transformation. I see that we are facing obstacles right now that we will or are planning to deal with. If there are... connected to the agile way of working? Let me think about that, that's...
-So what we are looking at right now is, we are trying to find the balance in the agile transformation. What we have done is pretty much establishing cross-functional teams, getting a broad competence base so that the teams can be efficient or at least effective in developing software across different products basically. So that has been the focus and what we are seeing right now is that we have some what lost, we assume that the product skills and the deeper competence would always be there because that's what we came from so when we did the transformation we focused on getting this broad and cross view in. And what we are seeing now is that we are losing that depth that product depth and that's what we are seeing that this organisation does not really support.
+So what we are looking at right now is, we are trying to find the balance in the agile transformation. What we have done is pretty much establishing cross-functional teams, getting a broad competence base so that the teams can be efficient or at least effective in developing software across different products basically. So that has been the focus and what we are seeing right now is that we have some what we lost, we assume that the product skills and the deeper competence would always be there because that's what we came from so when we did the transformation we focused on getting this broad and cross view in. And what we are seeing now is that we are losing that depth that product depth and that's what we are seeing that this organisation does not really support.
 
 ### Why are you losing it? 
 
@@ -37,7 +37,7 @@ Yes, very much. I mean section manager, I don't know if you probably seen in you
 
 ### And how would you describe the information and feedback sharing between those roles? From them to you, from you to them? Is it sufficient? How do you decide? 
 
-I think it can always be better?
+I think it can always be better.
 
 ### Anything in particular which could be better?
 
@@ -80,6 +80,7 @@ Yeah, yes of course it's... For the XFTs I think, we want to have the responsibi
 Yeah, because it is big and complex. I think we would all love to have a smaller world for the teams so they can make the right decisions by themselves and sometimes that is possible but not always. So it is a thing we have to live with - I think.
 
 ### And how is it different between OPOs and your view towards the product. Is it in conflict in any way because the OPO is responsible for the products as well, right. 
+
 I think the OPOs are responsible for distributing the work and not so much the products actually so the OPOs they have a backlog and their job is to analyse the backlog and see what team should do... I mean maybe break down items in the backlog and see what team should do what part actually. And then we have section managers and project guardians that are appointed to actually take responsibility for the product itself then. So the OPOs are in this force that focuses on developing features and that I talked before. And the product responsibility and the balancing has so far been done with product guardians and the section managers then.  
 
 ### And if you take a kind of a step back and look at the organisation as a whole and different departments: do you think communication between them is bad or is it good? 
@@ -95,7 +96,6 @@ Yeah I think we have a quite good, I think the information flow or communication
 Yes, I mean we share the same product so to say. So we need to coordinate one team in my organisation can do work that kind of destroys for another team in the other organisation if they don't know what they are trying to achieve and what goes on. Sorry, what was the question?
 
 ### Just the communication between departments and what the benefits would be as I wanted to know if it's the same product or code even at times. 
-
 Yes.
 
 ### ...and there are redundancies maybe.
