@@ -59,12 +59,6 @@
 
 # Interview 6 (OPO-1)
 
-# Interview 7 (XFT-D-3)
-
-# Interview 8 (DM-1)
-
-# Interview 9 (OPO-2)
-
 - G1 vs G2
   - G2 OPOs more involved in technical decisions, G1 just get features from customers and put them in the backlog
   - Much communication for OPO in G2 - hence only 2 teams each
@@ -82,3 +76,9 @@
 - Picnic doesn't have a sencond team in the porduct to talk with
   - Single expercts in the ANTSYS - need to provide competense to other teams, takes time form sprint
 - Much reliance on Kista -- difficulties of distributed communication
+
+# Interview 7 (XFT-D-3)
+
+# Interview 8 (DM-1)
+
+# Interview 9 (OPO-2)
