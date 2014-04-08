@@ -52,3 +52,47 @@
     - Especially for a WP from an unknown domain/area
   - Teams share their information based on what they think other would like to know
 - Team to LM is one directional
+
+# Interview 5 (XFT-SM-1)
+
+- Single point of contact for the team -- involved in all kind of things
+- Communicaton between teams easily accessible, informal, all sit together
+- Good possibilities to have input on work in the sprint
+- Lack of big picture vision (would be more fun and would improve the wokr in a way)
+  - PO has no interest in this vision
+- APO - team communication is a good thing
+- TR as interruption
+- Team performs best when there are stories fit for everyone's competence
+- Dunno what DM is doing during the day, but if (huge impediment) {goto DM}
+- Too much testing for the team, not enough competence
+- No universal way of spreadin ginfo about the XFT's work
+  - Also hard to find this stuff for other teams
+- Quite bad at talking to each other inside Ercisson (do same things on next floors)
+  - Meetings with presentations between departments
+
+
+# Interview 6 (OPO-1)
+
+- G1 vs G2
+  - G2 OPOs more involved in technical decisions, G1 just get features from customers and put them in the backlog
+  - Much communication for OPO in G2 - hence only 2 teams each
+    - Time distributed unequally between the two XFTs depending on the stage they are at
+- Verification instances: green light needed from both to make a delivery
+  - Causes intense communication
+  - Responsible for the main track -- coordinates deliveries, a bottleneck
+- Status updates should come directly, not through the OPO
+- G2 verification dept: lots of emails flying around, don't know which ones are yours or who to send stuff to
+- Communication within the program -- good, between departmetns -- not, 2 LM in conflict
+  - Differnet approach to XFTs domain expertise in the departments, harder to coordinate
+- LM detached from things
+  - don't have good ways to communicate with others, often make a circle "solving" the problem
+  - Need to be more involved in the transformation
+- Picnic doesn't have a sencond team in the porduct to talk with
+  - Single expercts in the ANTSYS - need to provide competense to other teams, takes time form sprint
+- Much reliance on Kista -- difficulties of distributed communication
+
+# Interview 7 (XFT-D-3)
+
+# Interview 8 (DM-1)
+
+# Interview 9 (OPO-2)
