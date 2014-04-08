@@ -55,6 +55,20 @@
 
 # Interview 5 (XFT-SM-1)
 
+- Single point of contact for the team -- involved in all kind of things
+- Communicaton between teams easily accessible, informal, all sit together
+- Good possibilities to have input on work in the sprint
+- Lack of big picture vision (would be more fun and would improve the wokr in a way)
+  - PO has no interest in this vision
+- APO - team communication is a good thing
+- TR as interruption
+- Team performs best when there are stories fit for everyone's competence
+- Dunno what DM is doing during the day, but if (huge impediment) {goto DM}
+- Too much testing for the team, not enough competence
+- No universal way of spreadin ginfo about the XFT's work
+  - Also hard to find this stuff for other teams
+- Quite bad at talking to each other inside Ercisson (do same things on next floors)
+  - Meetings with presentations between departments
 
 
 # Interview 6 (OPO-1)
