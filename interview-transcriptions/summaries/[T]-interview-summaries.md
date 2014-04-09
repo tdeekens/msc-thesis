@@ -6,9 +6,9 @@
    - Finding a relevant source is time consuming and lowers sprint output
 - Lack of Structure in Agile Context
    - Contact person not visible
-- Feedback transperancy & roundtrip time
+- Feedback transparency & round trip time
    - Feedback during solving the impediments not present
-   - Roundtrip takes long and outcome not visible at times
+   - Round trip takes long and outcome not visible at times
 - Information flood & filtering
    - Too much and too little information reaches XFTs: filtering wished for
 - Information spreading
@@ -47,7 +47,7 @@
    - Lowers need for communication and sets stage for defined environment
    - Unknown domains bring unknown communication environments
 - Capture Information
-   - In Wikis for later lookup and async information gathering
+   - In Wikis for later look up and async information gathering
 - Perfect Sprint: burn down to zero
 - Bad Sprint
    - Improve on DoD and task planning
@@ -58,7 +58,7 @@
    - Deliver faster
 - One- vs. two-directional information flow
    - Management pulls but does not push information
-- WP mashup
+- WP mash up
    - Pushed by PgM and tends to cause unplanned work as  planning complexity rises
 
 # XFT-PG-1
@@ -76,10 +76,10 @@
    - Stalling in process by unfamiliarity
 - PGs as Bottlenecks
    - N° of teams growing but PGs not
-- Multiple perspectives and nescience
+- Multiple perspectives and nascence
    - Discovery of a specific piece of information is not always planned
    - Islands of knowledge
-- Information overdosis vs. missing information
+- Information overdoses vs. missing information
    - Hard to reach out and to value what you get
 - Direct Information
    - Regarding development and help works well
@@ -94,7 +94,7 @@
 
 - Agility differs
    - LM and agile branch are at a different status regarding agile
-   - Track delivery feeds back and hinders continous delivery
+   - Track delivery feeds back and hinders continuous delivery
 - Void of Responsibility
    - Troublesome finding responsible co-worker
    - Agile traditionally does not scale there
@@ -111,7 +111,7 @@
    - Feed back of TR or CI
    - Leads to sprint's focus being shifted towards unplanned work
 - Productive Sprint
-   - Defined packackes, no disturbance and single purpose
+   - Defined packages, no disturbance and single purpose
 - White box analysis is partly left to team to understand dependencies
 
 # DM-1
@@ -132,7 +132,7 @@
 - Macro information sharing
    - Two programs different time horizons and types of work but same product
    - Communication takes program direction, line tries to balance but improvement needed
-   - Threat of detructing other team's work by overlaps 
+   - Threat of destructing other team's work by overlaps 
    - Strategic decision to keep it as one piece of software (price and cost argument)
 - Team communication
    - Informal presence but don't attend meetings
@@ -140,20 +140,20 @@
 
 # OPO-2
 
-- Role definintions
+- Role definitions
    - Transformation did not make PO to OPO responsibility change clear
    - No need for clear definition, depend on context
 - Sprint interruptions
    - Priorities change: decided to continue work
    - Decisions from management
-   - TR and product care - can also be emphasized upon
+   - TR and product care - can also be emphasised upon
 - Adapt agile way of working
    - Take up more points than sprint ordinary has (should change again)
 - Product Ownership
    - Lowered by lack of vision and fostered by big WPs
 - Team responsibilities
    - Lost in broadening knowledge - no answers from management
-   - Teams split into specialized sub parts
+   - Teams split into specialised sub parts
    - Knowledge should diffuse by team work
 - Line integration
    - Teams with similar focus are integrated at different lines
@@ -175,11 +175,11 @@
    - Communication allows information spreading
    - Also threat of over communicating
 - Lack of Vision
-   - Communicated only short timeframe 
+   - Communicated only short time frame 
    - Needed to understand overall sense in work
 - Sprint impediments
    - TRs, extra work wrongly estimated stories
-   - Unexpected meetings e.g. pre-planning - hunt you if unattented though
+   - Unexpected meetings e.g. pre-planning - hunt you if unattended though
 - Agile transformation
    - Any part could work agile - just be open-minded towards definitions
    - Old processes clash with agile e.g. in hardware department (externally bound)
@@ -187,7 +187,7 @@
    - Small stories mapping member's qualifications
    - TRs interrupt progress and can grow while working on them
    - Combine comfort zone stories with ones embodying learning
-- Deluted from LN
+- Deluded from LN
    - SM might be unable to solve impediments
    - No real connection to DM: lack of understanding towards his role
 - Responsibility overload
@@ -207,7 +207,7 @@
 
 - Shifts in communication focus
    - WP driving shifts communication
-   - Two teams per OPO to minimize risk for overload
+   - Two teams per OPO to minimise risk for overload
 - Communication bottleneck
    - Coordination of main track
    - Could be distributed but blocks integration at times
@@ -217,7 +217,7 @@
    - Meetings involve discussions which don't always lead to conclusion
 - Information overload
    - Amount of mails accumulate causing trouble to filter
-   - Broadcasting due to unknown reciever
+   - Broadcasting due to unknown receiver
 - LN integration
    - Communication between departments hard as lines are separated
    - Information flies by and they are dependent on teams
@@ -225,9 +225,38 @@
    - Maybe due to personality
 - Knowledge build-up
    - Leads to teams being questioned a lot
-   - Unproduct sprints as a result there of: solution to spread knowledge
+   - Unproductive sprints as a result there of: solution to spread knowledge
+   - Information can disappear if not persisted
 - Agile customer collaboration
    - No promises or deadlines rather unpredictable feature delivery
 - Lack of Vision
    - Not communicated to teams but demanded
    - Hard to define as it changes over time
+   - Could increase motivation for team
+
+# XFT-D-3
+
+- Changing task types
+   - Depends WP which differs in content
+- Management distance
+   - Not part of daily responsibility: little communication
+   - Ideas from LM not clearly communicated
+- Communication in between XFTs
+   - MS-3 fine as close and their task is known
+- Impediments
+   - Solved by SM and when no SM present also no impediments
+   - Mostly hardware related
+   - Team not complete, otherwise willing to take over more responsibilities
+- Sprint interruption
+   - Back work: unplanned work or TRs (30% of time)
+   - TRs are not predictable (not planned for?)
+   - TRs can be reassigned with good argument
+   - TRs differ in severity (hot to cold) and can be postponed
+- Lack of Vision
+   - Short term present: one year up front
+   - Raised in retrospective
+- Information sharing
+   - Sprint review: share achievements and some details
+- Missing Agility
+   - Hardware department: long round trip with contacts in Finland 
+   - CoPs not attended by all: no responsibility for sharing learnings
