@@ -110,3 +110,17 @@
 - Keep it low with the XFT, let the SM do it
 
 # Interview 9 (OPO-2)
+- OPO vs PO role - dunno where the border
+- APO shoul collaborate with PDMgmt by the nature of their work
+- Manaemet decision on prioritization might overrule
+- G1 - very - strict vs G2 - do - what - you - want
+- XFTs empowerment: competence up to themselves, mgmt says
+  - should have domain competence
+  - learn new competences via pair work
+- MS2 is left out from APC by being in different section
+ - but te setup is every team should be able to work on anything
+- Teams communicate with each other only when needed, not being homies
+  - would have helped dicision discussions, now only inside the teams
+- Vision more from Ercisson benefits, customer benefit from feature - not always
+- Odd set up, split all the way to department, sometimes decision needs to go through Tomas
+  - sync meetings for everything
