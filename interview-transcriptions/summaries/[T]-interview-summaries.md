@@ -137,3 +137,97 @@
 - Team communication
    - Informal presence but don't attend meetings
    - Not shortcutting intended communication path through SM
+
+# OPO-2
+
+- Role definintions
+   - Transformation did not make PO to OPO responsibility change clear
+   - No need for clear definition, depend on context
+- Sprint interruptions
+   - Priorities change: decided to continue work
+   - Decisions from management
+   - TR and product care - can also be emphasized upon
+- Adapt agile way of working
+   - Take up more points than sprint ordinary has (should change again)
+- Product Ownership
+   - Lowered by lack of vision and fostered by big WPs
+- Team responsibilities
+   - Lost in broadening knowledge - no answers from management
+   - Teams split into specialized sub parts
+   - Knowledge should diffuse by team work
+- Line integration
+   - Teams with similar focus are integrated at different lines
+   - Causes alienation and causes talking at cross purposes
+   - Communication needs to travel up a line as it can not shortcut
+   - Overlaps cause need for sync meetings to integrate lines with one another
+- Horizontal team communication
+   - Lack of mingling: teams isolate and do not informally communicate
+   - Only reach out when needed then also efficient
+   - Problems: unknown effects on code of others and no discussion
+- Agile planning
+   - Planned items need to be flexible and interchangeable
+
+# XFT-SM-2
+
+- Role definitions
+   - Are dependent on teams: some need vocal members others don't
+- Advantages of co-location
+   - Communication allows information spreading
+   - Also threat of over communicating
+- Lack of Vision
+   - Communicated only short timeframe 
+   - Needed to understand overall sense in work
+- Sprint impediments
+   - TRs, extra work wrongly estimated stories
+   - Unexpected meetings e.g. pre-planning - hunt you if unattented though
+- Agile transformation
+   - Any part could work agile - just be open-minded towards definitions
+   - Old processes clash with agile e.g. in hardware department (externally bound)
+- Sprint setup
+   - Small stories mapping member's qualifications
+   - TRs interrupt progress and can grow while working on them
+   - Combine comfort zone stories with ones embodying learning
+- Deluted from LN
+   - SM might be unable to solve impediments
+   - No real connection to DM: lack of understanding towards his role
+- Responsibility overload
+   - Balance between XFT's being broad but also about distinct borders
+   - Overall field to big an complex to grasp all areas
+   - Split up teams a bit by specialised responsibilities (e.g. testing)
+- Information sharing
+   - Lacks points of entry: too many independent wikis
+   - Information finding trouble some due to lack of common portal
+   - CoPs fine but need to be followed up on
+- Macro communication
+   - Communication on small scale fine, large scale almost not present
+   - Leads to redundant work and clueless employees
+   - Integrate by forums or exhibitions
+
+# OPO-1
+
+- Shifts in communication focus
+   - WP driving shifts communication
+   - Two teams per OPO to minimize risk for overload
+- Communication bottleneck
+   - Coordination of main track
+   - Could be distributed but blocks integration at times
+- Information sharing
+   - Mostly through meetings with different parties
+   - Meetings with co-workers from different fields are hard to follow
+   - Meetings involve discussions which don't always lead to conclusion
+- Information overload
+   - Amount of mails accumulate causing trouble to filter
+   - Broadcasting due to unknown reciever
+- LN integration
+   - Communication between departments hard as lines are separated
+   - Information flies by and they are dependent on teams
+   - Circular communication whenever solution can not be found
+   - Maybe due to personality
+- Knowledge build-up
+   - Leads to teams being questioned a lot
+   - Unproduct sprints as a result there of: solution to spread knowledge
+- Agile customer collaboration
+   - No promises or deadlines rather unpredictable feature delivery
+- Lack of Vision
+   - Not communicated to teams but demanded
+   - Hard to define as it changes over time
