@@ -1,11 +1,11 @@
-# Interview 1
+# Interview 1 (XFT-SM-1)
 
 - Not a natural way of communication, forced meetings from upwards that give little value for the team (PM, SM/LM)
 - Work not communicated well downwards to the teams, only until the OPO level.
 - Void of responsibility, too much of it for the team
 - Diversity of WPs, would have preferred to focus on one domain
 
-# Interview 2
+# Interview 2 (XFT-PG)
 
 - Not clear borders of responsibility, teams might not know when to contact PGs
 - Not enough support for the teams, too many responsibilities and not enough competence.
@@ -15,7 +15,7 @@
   - Team's contact with TM is only via PG
 
 
-# Interview 3
+# Interview 3 (XFT-D-1)
  
 - Not clear responbitilities for the XFT as a whole
   - XFT is responsiblt for everything
@@ -36,10 +36,10 @@
   - Not enough feedback btween PgM and the team
  
 
-# Interview 4
+# Interview 4 (XFT-D-2)
 
 - Organisation's transition towards agile:
-  - Thing take shorter time
+  - Things take shorter time
 - Unplanned work coming from other teams as an interruption
 - Frequent communication with other developers as a norm
   - Originating from dependancies in WPs
@@ -53,7 +53,7 @@
   - Teams share their information based on what they think other would like to know
 - Team to LM is one directional
 
-# Interview 5 (XFT-SM-1)
+# Interview 5 (XFT-SM-2)
 
 - Single point of contact for the team -- involved in all kind of things
 - Communicaton between teams easily accessible, informal, all sit together
@@ -92,7 +92,21 @@
 - Much reliance on Kista -- difficulties of distributed communication
 
 # Interview 7 (XFT-D-3)
+- Only OPO & PG & LM as an immediate circle
+  - project managers - far from my responsibility
+- Communication between team - ok, upon request
+- Black work and TRs as sprint interruprions
+- Perfect sprint = no TR and no hardware impediments
+- Abbreviation overflow
 
 # Interview 8 (DM-1)
+- XFT established for developing software across different products
+  - went too far, product depth lost
+- Feature focus over product focus: code quality meh
+- OPO -> PjM, DM -> PjM, DM -> OPO, DM -> SRM - different info travel speed
+  - Rumors travel, info distorted -> XFT who to trust, uncertainty
+- Large amount of work for teams -> can not give them responsibility
+- Between department communicatin needs improvement
+- Keep it low with the XFT, let the SM do it
 
 # Interview 9 (OPO-2)
