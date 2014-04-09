@@ -44,7 +44,7 @@ Hm, as an XFT member or as a whole team?
 
 # ...as the whole team.
 
-As a whole team we communicate with the OPO, PG and some project manager I think and also we have to communicate with hardware cause our product is kind of tightly connected to hardware. So if we finish a feature but the hardware is not done so then, how should I say, this feature is not done. We are also taking care of their plan and we also we need to consider about the ANSCI teams like their planning to... Is that ANSCI team, maybe not ANSCI team like the WCT-Online ??? and LTE release plan and so we need to fit to their deadlines. 
+As a whole team we communicate with the OPO, PG and some project manager I think and also we have to communicate with hardware cause our product is kind of tightly connected to hardware. So if we finish a feature but the hardware is not done so then, how should I say, this feature is not done. We are also taking care of their plan and we also we need to consider about the NC teams like their planning to... Is that NC team, maybe not NC team like the WCDMA and LTE release plan and so we need to fit to their deadlines. 
 
 # ...and what are the main topics you talk about with your OPOs and PGs? And project managers?
 
@@ -60,7 +60,7 @@ Because I just started half year I am still kind of confused by those release pl
 
 # And about your communication with your OPOs, PGs and project managers: how do you receive information? Are you happy with the amount of information and how frequently it comes to you as a team? 
 
-We got information from OPO each sprint review and also that is something I forgot to mention every week we have a line meeting. And during that meeting we also hear some kind of story about of that release date and those TR situation. For me I am kind of happy or satisfied for the current situation. It's with the other release plan, what is going on. Yeah, I think it is enough. Or?
+We got information from OPO each sprint review and also that is something I forgot to mention every week we have a line meeting. And during that meeting we also hear some kind of story about of that release date and those TR situation. For me I am kind of happy or satisfied for the current situation. It's with the other release plan, what is going on. Yeah, I think it is enough. Or? UPD: Yes, I am happy with received info from OPO.
 
 # ...you have to say...
 
@@ -124,15 +124,15 @@ Yes. Yes and no because we don't have dependency on other team cause we work on 
 
 # Black work?
 
-Like these things that should be done but are not planned so it's not reflect on the user stories. For example the hardware issue in the beginning. We are thinking that there maybe is something wrong with the code and then it takes some times and oh we find it is the hardware issues and we do this kind of unplanned work and we need to communicate with the hardware people. So you need to update something. This is kind of unplanned work. And if a super hot TR, super emergency come then we need to put our user stories here and start working on the TR. Yes, that also happened before but that's also not quite often. Lets say not every sprint but 30% of time.
+Like these things that should be done but are not planned so it's not reflect on the user stories. For example the hardware issue in the beginning. We are thinking that there maybe is something wrong with the code and then it takes some times and oh we find it is the hardware issues and we do this kind of unplanned work and we need to communicate with the hardware people. So you need to update something. This is kind of unplanned work. And if a super hot TR, super emergency come then we need to put our user stories here and start working on the TR. Yes, that also happened before but that's also not quite often. Lets say not every sprint but 30% of time. UPD: or maybe less.
 
 # Where do TRs come from or why do they occur? Are they caused by you - is it the team or other teams at times? 
 
-Why TRs comes, that is complicated. For example the first week here there was some super hot TR from Canada then they told us that there are 500 radio base station they are recycling like they are restart and restart and restart. And then later we found out that they did something wrong with database and then we how do I say: it is not our responsibility and then we route to another team. At that time we came up some work around so that hot TR is not that hot cause we provide a work around but that problem is not fixed. But yes, that is not our team's responsibility but we're doing it anyways cause that problem is showing up. How should I say, we are here (layer) in our product and somewhere here have some problem but it shows up in ours... And sometimes it is other team's like on the last one or last three they developed something and maybe then there are some small issue to fix and we have to fix it. 
+Why TRs comes, that is complicated. For example the first week I started working here there was some super hot TR from Canada then they told us that there are 500 radio base station they are recycling like they are restart and restart and restart. And then later we found out that they did something wrong with database and then we how do I say: it is not our responsibility and then we route to another team. At that time we came up some work around so that hot TR is not that hot cause we provide a work around but that problem is not fixed. But yes, that is not our team's responsibility but we're doing it anyways cause that problem is showing up. How should I say, we are here (layer) in our product and somewhere here have some problem but it shows up in ours... And sometimes it is other team's like on the last one or last three they developed something and maybe then there are some small issue to fix and we have to fix it. 
 
 # Is it something you take into account during the spring planning, that something might come up?
 
-That is not predicable, right? Because we don't know whether there is a problem show up in customer but sometimes we could know that cause the APC mailbox some people would ask us in APC mailbox whether this is a problem or not and then we analysing that this is a problem please write a TR to us. But sometimes I think people quit TR because they don't know what is the problem so they write a TR on Skype or somewhere else and there is somewhere responsibly office and maybe that is our fault and then they put the responsibility in our - how should I say - group.
+That is not predicable, right? Because we don't know whether there is a problem show up in customer but sometimes we could know that cause the APC mailbox some people would ask us in APC mailbox whether this is a problem or not and then we analysing that this is a problem please write a TR to us. But sometimes I think people write TR because they don't know what is the problem so they write a TR and there is somewhere responsibly office and maybe that is our fault and then they put the responsibility in our - how should I say - group.
 
 # Can you redelegate a TR if you see it is not your responsibility? Can you bubble it up again, give it to somebody else? 
 
@@ -224,7 +224,7 @@ Parts which are not agile. As a whole organisation?
 
 # Yes, so say they are very static it takes a long time for them to give feedback, it takes a long time for them to change something when you have something you would like to know...
 
-For example the hardware part but I don't know whether they could work in an agile way. Yes, they could in an agile way. They could work in Kanban. For example if we want to update the hardware of what we are doing of what we are currently developing we have to send it to Finland, we couldn't get the, how should I say report it and do it in the current hardware. Because it is Ericsson and it is a supplier and we are not allowed to do that because of some process and... It that?
+For example the hardware part but I don't know whether they could work in an agile way. Yes, they could in an agile way. They could work in Kanban. For example if we want to update the hardware of what we are doing of what we are currently developing we have to send it to Finland, we couldn't get the (UPD: te bin file and burn it to HW), how should I say report it and do it in the current hardware. Because it is Ericsson and it is a supplier and we are not allowed to do that because of some process and... It that?
 
 # And maybe something else just to give straight examples would be when somebody won't act because he is on a different long term schedule. So somebody is working on really long term iterations and you are doing short term ones and you want to know something and he says it's not part of my current WP - not WP but...
 
