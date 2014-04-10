@@ -1,73 +1,51 @@
+### What is your role in the organization and what is your relation to the MS2 team?
+My role is Program Manager and the relation to the MS2 team is in this CIRV program that they are a team that takes WP, main requirements from the backlog we have in the program.
+### And what are your key tasks and responsibilities in general?
+For my position? In general… We are in a transition now, so we will kick off a new setup from after Easter, but I will talk about what we have had before. I have been focusing on the Config backlog in the PDU LMR, we have a IPP (Internal Product Plan) and we do[???] requirements from the product line is divided in several backlogs. You have in several then requirement areas. And you have, for instance, RBS Configuration, you had RBS OMN[???], you had RAN OMN, you have Regio, you have Sum, you have MBB over Broad Band and so on. So there are different backlogs and one of those backlogs was the config backlog and that’s mainly where we from the PD CAT get most of the tasks, or the task that takes most of our time basically. So in my role then I talk a lot with APO about the different requirements, trying to figure out if they are ok to go on with or if we need to do something more, maybe split them, can we do the entire requirement in one release or do we need to post [???] them to the next release or divide them — such discussions. And then I have a colleague in Kista, Program Manager as well then, and together we also run the program so to say, where we facilitate meetings where we meet the OPOs in the backlog care meetings where they can pull items from the backlog. And we also have, we do some reporting on a progress, we try to help with synchronization towards other RAs, because the main, the basic set up is that the OPO is responsible for the end-to-end planning. That end where there is larger MAs [????] and it’s too much for the OPO to handle then we could add a Feature Project Manager then to handle the interfaces with other PDUs and other RAs as well. Then when we have, for these MR that the OPOs have, if there also are impacted areas in the other RAs then we need to bring this to the RA sync meeting where we say that here we can an impact on your product estimated to 200 hours, we need that to be part of the 14B release, could you support that and so on. We also try to be transparent about our capability, for instance, with different releases how does it look, and as it is now we have more requirements than we have resources then, so we basically need to say that «We can cope with up to this requirement», then the rest, they don’t fit in that release so to say. So that’s some of the tasks.
+### Have you worked here before the agile transformation? And if you have, was it different, what were you doing then?
+Yes. It was a bit different. We more used team leaders and teams. I was a Project Manager basically then for the Design part, and then there were separate Project Managers for the System part, System project, and they had an IV project, and it was handovers then between those faculties so to say.
+### And now, after/in the middle of the transformation, would you say that your responsibilities are clearly defined for your role?
+Yeah, I think so, for my role it is clearly defined.
+### And if you look at the transformation in general, do you think there are any obstacles structure-wise that can hinder the transition?
+Yes, there are. Because we have, I see that we have worked with…One agile setup is the Scrum way of working that we use, but I don’t think we have really elaborated Agile in the large. I feel that we need to come back… Because in the ideal world the team should pull the item from the backlog, then work with the item, solve issues, impediments, and then when they are ready — put it on the shelf. Then the release project, that handles towards the customers, they should then pull it when it’s ready to give it to the customers, but we are not there yet and I don’t think we will come there, because we need early, we need to have commitment towards customers. Because we mark it, the features, in advance and they are not sort of agile in that setup. We are going more in that agile direction, but we have this half year basic release of software and then you need to «Oh, we need to push this in to that release because the customer needs it then, the customer will not accept another half a year for these features then», that’s not…And what I can see, for instance, is that we have in the teams then, we commit per sprint towards certain content, but we don’t so clearly commit to the full content, the full MR[???] with the delivery and to meet the customer expectation for the delivery then. That was I call then agile in the large, we need to expand it a bit to get to…Because we are not in the idle Scrum world, we are in a world where we have customers that need commitment a bit far before. That’s of course is an impediment in the agile transformation.
+### Do you think that will be acceptable for the customers, not to have these strict deadlines?
+Yeah, I think for some customers, because they are different. Some customers want to have the features when it’s almost in put a time status, or when it’s not released yet, then they deploy it on their live networks and start to use it, and limit it of course then and in agreement with Ericsson then. But sometimes they have their own testing cycles and they really want to be careful before they deploy the software and [???]. They are in that way more like the old way of working, so that will be in both ways I think. But in general I think we are going into that, to get more continuous delivery, continuous deployment then, so we have started to take those steps.
+### You mentioned a lot of roles you communicate during your work. If you were to pick say 3-5 the most frequent ones, who would it be?
+I think, the OPO role is one. Then I also communicate a lot with CA, Technical Coordinator, APO.
 # And how would you describe the information sharing between you and those roles? Is it sufficient or maybe somewhere it is not efficient enough?
-
 I think it's, it's of course it could be better, it could always improve. But in general I am quite satisfied. 
-
 # And do you have any communication with the teams?
-
 Often not directly so much.
-
 # Do you have it via OPO?
-
 Yeap, via OPO.
-
 # So, you always share information first with the OPO and then it goes to the team?
-
 Yeah, I also have an information meeting where everybody is invited but its not the interest for... that could be better. Also for the APC teams I attend and their planning or demos so to say. That's very valuable as well then?
-
 # How about your communication with the line management, like section managers, department managers?
-
 I am, we have a forum for the PSD product, project steering group where we have by weekly meetings present status. We take the good decisions for starting off new work items and I think all managers and section managers are invited as well then. Then I am a part of the extended LTE, is also a by weekly meeting. For the department managers and I also have some of the program leaders in the program managers in there. 
-
 # And do you think you and line management can have different perspectives sometimes on the work of the XFT or maybe different influences?
-
 Yeah, I think so that could be. Now it has been, in the setup that we have now the program and the line has been rather connected because we had RACNO and before it was called the line CNO also. So it was rather one to one mapping but now we are going in another direction. So the line has changed name to the PDCAT and then the AR has been devided on, or there are several RAs that use PDCAT resources so I think it would be about 4 RAs that will use PDCAT resources. So I think in the future my picture of view will be more different than the line view.
-
 # Is it good or bad?
-
 I think that's, it will be easier in the communication perspective it has been easier so it is more challenging to have in the new way then.
-
 # And you have a quite right collaboration with APOs, do you think the teams need this collaboration as well?
-
 Yeah, I think, I hope that we will get closer in the new setup as well then. But we will see how that will run.
-
 # And in what way will that help the teams? 
-
 I think it's motivation wise, to get a market view and also to feel that you're not so very far from the customer, the end user then. And this is challenging in a big company that we, even the APO meet the customer so often. They meet the market units, they meet the customers. There are examples where the teams are going to the customers to do some work, demos. I think that's exceptions but that is gainful for the motivation for the teams. That they can get, they're not doing this because they promised this, they do this because they knew that need it - they have seen it themselves. They really need this one deliver at certain time or something like that. 
-
 # Do you see any other communication channel that the team might miss, like APO?
-
 Yeah that is they miss... I am not sure what, I would more ask that in them case what they're missing cause I would just be guessing then I think.
-
 # And since the XFTs now have a lot of responsibilities: does it affect you in any way? 
-
 No, not really I think it's basically very good that they have more. That is, you have to keep that responsibility then because if you... in my role for instance if you take on responsibility from the teams, they will of course back off. So it's important that they continue having the responsibility. Even more I would like that we expand that too. I think that they have responsibility but the Scrum that we have learnt is more like you commit to your next sprint and you don't look to far away, that will be waste but I don't really agree cause we haven't... we have to setup an agile in the large and there are really no good examples. Maybe you have seen that in the school then that but I think it's more, you need to twist it a bit... too much.
-
 # Are there also any problems out of giving teams too much power and responsibilities? How anything which kind of turned out to be unexpected by doing that?
-
 No, I haven't seen... it's only positive I think when they take on... Maybe it's a problem sometimes that they... and that's why we have those rules that shouldn't be needed in a perfect world. The Feature Project Manager for instance, so I think sometimes I think that the team and the OPO thinks that it's too much to take on, in this semar [???] then? One thing also that is obstacle: we have too few OPOs I think in some areas. For instance for the ANSCI teams, they have 5 teams per OPO to handle. So I think they became bottlenecks in a way.
-
 # Do you see any other bottlenecks?
-
 Yeah, that's number of teams. We have too low...
-
 # ...not enough teams?
-
 Not enough teams or, we don't... we have too much to do compared with our current capability then and of course there are, you can discuss if you... do we utilise our time enough for feature development or what do we else do - what is value adding time. So on in teams that is also way for what to work with. But you also of course need to add teams and educate teams in these areas.
-
 # Do you have any opinion on how to allow teams to be more efficient? Is there something you would like to take away from them maybe that they can work better?
-
 Yeah, no I think a way to, to give that the team coaches work more. I can't say that I have a very strong opinion on how this works but of course the team coaches has a very important role then to take impediments away and also where they can escalate problems. And what we can have within a program is that, if the... I think sometimes they are waiting for other organisations, they are not getting responses and there you have lot of waste. Even, there are always things to do but if you can't do it the way you want to do it, it will be waste away anyway. If you see what I mean. So there we could possibly help our more to get context and also if they escalate I also feel that teams are sometimes sitting on the problems too long. They could, if they escalate it earlier then you could help our earlier to take actions to, to help out then. 
-
 # Do you think information for teams generally is accessible enough? Do you see cases where they have trouble finding valuable information? 
-
 I think it's rather accessible. It's... the information problem is probably that it's too much information and it's hard to sort out what is valuable. But not that you don't have access to it. I don't think that that's the problem. 
-
 # Do you have any idea on how to solve it or how to filter information more sufficiently?
-
 Yeah, maybe I think the teams need to do that themselves really cause its better to have information available but then everyone has a bit different needs. It's better that they do their own seeking profile than someone plans it for them. I think that would not fit so good if we do like information package...
-
 # And do you have any information on why teams sit with impediments for too long and don't take it, don't escalate it? Since they have a team coach?
-
 I... what I hear from the OPOs is that there are not that much impediments brought up on the meetings. Then I guess that everyone wants to... this could be wrong but I feel that you have a bit, you have a task and you really want to do it as good as possible and then you try and try again and try again and then time slips if you don't...
-
 # Okidok, I think we're through...
