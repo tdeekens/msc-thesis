@@ -56,3 +56,48 @@
 - Technical environment
    - Interrupts sprints lowers planned velocity
    - No internal interference leads to production
+
+
+# Interview 10 (DM-2)
+- Endless transition
+	- Initial goals reached but continous improvements continue
+    - Organisation (DF) quite homogenous and same spot of transition
+- Information sharing
+	- Sufficient on the higher level (names numerous meetings)
+    - Lack of spreading between teams: don't get out of focus tunnel and share
+    	- causes double work, different guidelines, reinventing the wheel (not looking out for existing solutions)
+    - Solution: structured intranet not a lot of independent ones
+- No immanent friction between PgM, OPO and DM
+	- If there are problems - JIT communication
+
+
+# Interview 11 (PgM-1)
+- Line integration
+	- Give not-so-necessary tasks to the teams 
+    - LN should move towards PgM and not the other way round
+    - Are outside the loop and are separated - effort to keep them integrated
+	- Define methods and translate words to match
+- Information sharing
+	- Fetching over sharing (known issue)
+    - XFTs should get total picture of task - not always communicated
+    	- if the team needs a big picture to solve a complex task
+    - Differs between teams: depends on personality and team type
+    - Information circling well in Lindholmen (part of the role to know)
+		- Cut off between different sites within organisations (CI, system sites)
+- Need to adapt methods to differnt teams based, do not push the same for everybody
+- (Sometimes) Too much inflence on XFTs at times, bypassing the OPO and their plans
+
+
+# Interview 12 (PgM-2)
+- Agile in the Large
+	- Not fully elaborated on within organisation (focus on Scrum mostly)
+	- Real world: Customer commitment, long release cycles with late additions
+	- Customers are different but moving torwards continuous delivery with them
+- XFTs towards customers
+	- Closer link to motivate teams
+    - Not always direct contact between APO and customers
+- Information is sufficient but needs filtering
+- Workload around XFTs
+	- Too many teams per OPO
+	- More work in stock than current setup allows to handle
+- Teams tend to escalate problems too late
