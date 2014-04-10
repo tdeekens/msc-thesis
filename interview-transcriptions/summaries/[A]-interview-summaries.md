@@ -152,3 +152,13 @@
   - teams' voice on impediments not heard
 - Team <-> OPO - priority communication
   - steering the teams shifts priority
+
+# Interview 11 (PgM-1)
+- PgM mostly big scale planning, next release etc
+- Focused on Scrum, but not Agile in the large
+  - Customers need to be more agile
+  - Customers are different in their needs, but move towards continious deployment
+- Teams should have more contact with APOs, imroves motivation
+- More requrements than resources
+- Information is sufficient but need filtering
+- I don't want to do this anymore

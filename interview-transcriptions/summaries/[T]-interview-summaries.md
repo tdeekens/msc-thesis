@@ -300,3 +300,29 @@
    - There should not be a perception of a perfect XFT: guideline what it is
    - XFTs differ same methods don't apply to all
    - People did not change their specialisation after the transformation
+
+# PgM-2
+
+- Agile in Large
+   - Not fully elaborated on within organisation
+   - Ideal world: Backlog items developed, on shelf und pulled by release team
+   - Real world: Customer commitment, long release cycles with late additions
+   - Team commitment: mainly towards sprint not full content 
+   - Customer are different but moving torwards continuous delivery with them
+- XFTs towards customers
+   - Closer link to motivate teams
+   - Lots of layers even between APO and customers
+- XFTs and Vision
+   - Should look ahead of sprint - debatable as future changes, hence its analysis might be wasteful
+- XFT responsibilities
+   - Not too much, more is better
+   - Blocked by other parts of the organisation
+   - Teams tend to escalate problems too late (in meetings) - work head down
+- Workload around XFTs
+   - To many teams per OPO at times (5)
+   - OPOs might have the opinion that XFTs have to much to take on
+   - More work in stock than current setup allows to handle
+   - Team coaches a very important
+- Information sharing
+   - Information is accessible but there tends to be an overload
+   - Filtering shall not be done by an entity - custom seeking profiles
