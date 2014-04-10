@@ -126,6 +126,16 @@
   - sync meetings for everything
 
 # Interview 11 (DM-2)
+- Not a transition towards agile, just improving WoW (transition is over)
+  - everyone is in the same level in the agile working
+- Piloting communnication with the teams directly
+- OPO communication - only in stakeholder meeting, PgM daily
+  - in there are problems - JIT communication
+- Lots of meetings in the line
+- Monthly newsletter in Lindholmen - enough for communication
+- Differnt WoW & tools -> different end results from different teams -> double work
+- Teams should just talk to each other every time they need
+  - intranet as a tool
 
 # Interview 11 (PgM-1)
 - Role not clear in the agile context, but some form of coordination needed.
