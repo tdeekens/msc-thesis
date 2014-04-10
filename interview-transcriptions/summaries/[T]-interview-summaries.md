@@ -260,3 +260,43 @@
 - Missing Agility
    - Hardware department: long round trip with contacts in Finland 
    - CoPs not attended by all: no responsibility for sharing learnings
+
+# DM-2
+
+- Endless transition
+   - Transition is intended to end
+   - Initial goals reached but continous improvements continue
+   - Organisation (DF) quite homogenous and same spot of transition
+- Department integration
+   - RUNDUN prototype: walk around to teams to force interaction
+   - Rotating "Show 'n share" for section to present work
+   - No immanent friction between PgM, OPO and DM
+- Information sharing
+   - Sufficient on the higher level (names numerous meetings)
+   - Lack of spreading between teams: don't get out of focus tunnel and share
+   - Tunnel causes: double work, different guidelines, reinventing the wheel (not looking out for existing solutions)
+   - Solution: structured intranet not a lot of independent ones
+
+# PgM-1
+
+- Role definition
+   - Concerns with vague role definitions exist (own defined, agile)
+   - Scrum does not solve hierarchy needed on large scale
+   - Outside help needed: everyone "saves their life"
+   - Too much inflence on XFTs at times, bypassing the OPO and their plans
+- Information sharing
+   - Fetching over sharing (known issue)
+   - XFTs should get total picture of task - not always communicated though
+   - Generally issues with information not always reaching teams (vision communicated though)
+   - Differs between teams (good 'n bad cases): depends on personality and team type
+   - Cut off between organisations (CI, system sites)
+- Line integration
+   - Trade-off between XFTs and LN - XFT have focus
+   - LN should move towards PgM and not the other way round
+   - No real connection between XFTs and team coach
+   - Are outside the loop and are separated - effort to keep them integrated
+   - Define methods and translate words to match 
+- XFT empowerment
+   - There should not be a perception of a perfect XFT: guideline what it is
+   - XFTs differ same methods don't apply to all
+   - People did not change their specialisation after the transformation
