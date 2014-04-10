@@ -124,3 +124,21 @@
 - Vision more from Ercisson benefits, customer benefit from feature - not always
 - Odd set up, split all the way to department, sometimes decision needs to go through Tomas
   - sync meetings for everything
+
+# Interview 11 (DM-2)
+
+# Interview 11 (PgM-1)
+- Role not clear in the agile context, but some form of coordination needed.
+- Fethces information, doesn't spread well
+  - if the team needs a big picture to solve a complex task
+  - team dependant, some need more info put on them
+  - between team collaboration also team dependant
+- Vision of the product communicated well to the teams
+- Need to adapt methods to differnt teams based, do not push the same for everybody
+- Line is distant from the rest of the roganization
+  - give not-so-necessary tasks to the teams 
+  - need more coaching
+- Information circling well in Lindholmen (part of the role to know), not with other sites
+  - teams' voice on impediments not heard
+- Team <-> OPO - priority communication
+  - steering the teams shifts priority
