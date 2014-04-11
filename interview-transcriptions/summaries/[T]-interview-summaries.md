@@ -319,7 +319,7 @@
    - Blocked by other parts of the organisation
    - Teams tend to escalate problems too late (in meetings) - work head down
 - Workload around XFTs
-   - To few OPOs per team
+   - To many teams per OPO at times (5)
    - OPOs might have the opinion that XFTs have to much to take on
    - More work in stock than current setup allows to handle
    - Team coaches a very important
