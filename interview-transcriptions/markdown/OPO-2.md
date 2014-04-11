@@ -20,7 +20,7 @@ No.
 
 ### Can you elaborate?
 
-Yeah, maybe they are clearly defined. I don't really think... When working in a design organisation it was clear what role a product owner, and that's more a broader role than the OPO as it was introduced. And most of it is as the OPO role is a general role. For example in larger areas as ANSCI you have, you don't really have product ownership not on OPO level and nor on management level. In APC area we have sort of kept that. So I've three teams only working, not only but mainly, with APC area and that means more of a product responsibility so to say. I am sort of the name outside our AR when it comes to APC issues not always connected to the teams. We don't really have that in the ANSCI area cause it is too large. I think it is something for the ANSCI area when they split it in ANSCIs and CRA and so on. Was it clear?
+Yeah, maybe they are clearly defined. I don't really think... When working in a design organisation it was clear what role a product owner, and that's more a broader role than the OPO as it was introduced. And most of it is as the OPO role is a general role. For example in larger areas as NC you have, you don't really have product ownership not on OPO level and nor on management level. In APC area we have sort of kept that. So I've three teams only working, not only but mainly, with APC area and that means more of a product responsibility so to say. I am sort of the name outside our AR when it comes to APC issues not always connected to the teams. We don't really have that in the NC area cause it is too large. I think it is something for the NC area when they split it in NCs and CRA and so on. Was it clear?
 
 ### Yeah, I don't know.
 
@@ -68,7 +68,7 @@ Stop the work of a team. Decisions from management.
 
 ### Can you give any examples?
 
-Yeah, I don't think. Yeah we did stop. Last of, before and after last summer we had a quality problem and error in the ANSCI domain and we got a management decision that we should prioritise working on ANSCI TRs and ANSCI product care. Then we stopped one ongoing feature and had one team working with ANSCI product care for, I think it was eight weeks, something like that. So it was pure management decision.
+Yeah, I don't think. Yeah we did stop. Last of, before and after last summer we had a quality problem and error in the NC domain and we got a management decision that we should prioritise working on NC TRs and NC product care. Then we stopped one ongoing feature and had one team working with NC product care for, I think it was eight weeks, something like that. So it was pure management decision.
 
 ### Is that something that happened only once or?
 
@@ -112,7 +112,7 @@ Twice as many meetings I would say. And I think... I think that's the main issue
 
 ### Is there one which is easier to work with even though they are both so far off?
 
-I think G1 is easier as it is more calm so to say. It is more of a program and not of a project so to say. So I think it will be challenge merging G1 and G2 for ANSCI for example because they have a really splitted organisation but they need to come down to same software track and same way of working rather soon. And sort of we are already there. So that will be a challenge for them. But no I don't think is really easier to work in one compared to the other but I think the optimal would be somewhere in the middle. 
+I think G1 is easier as it is more calm so to say. It is more of a program and not of a project so to say. So I think it will be challenge merging G1 and G2 for NC for example because they have a really splitted organisation but they need to come down to same software track and same way of working rather soon. And sort of we are already there. So that will be a challenge for them. But no I don't think is really easier to work in one compared to the other but I think the optimal would be somewhere in the middle. 
 
 ### How does the empowerment of XFTs affect you? Since they have lots of responsibilities?
 
@@ -160,7 +160,7 @@ I don't know if the teams have seen so much of it since we have sort of kept it.
 
 ### But some parts are aware of that it's not correct: the way of working?
 
-Yeah, I mean of course everybody has been questioned strategy that they have been asking questions: could we, is it really that next sprint we could have ANSCI feature we don't know anything about about. So they have been sort of afraid of the power points so to say but it has not turned to reality.
+Yeah, I mean of course everybody has been questioned strategy that they have been asking questions: could we, is it really that next sprint we could have NC feature we don't know anything about about. So they have been sort of afraid of the power points so to say but it has not turned to reality.
 
 ### So are you in contact normally with department managers as well?
 
@@ -284,4 +284,4 @@ No.
 
 ### And if you take a step further back at the organisation at Lindholmen for example: how well do you think the different departments communicate with each other?
 
-I think... I don't know if it is due to communication but I think that our RA have done rather odd setup between G1 and G2 because it actually splitted except for APC it is splitted all the way up to department management and that means that two teams are sitting next to each other are working in the same code area but need a decision have to go all the way up to Thomas and back again and I think that is causing a lot of problems and maybe I see it because I am sitting in both projects. It is very easy to end up in: we in G2 doing it this way and we in G1 doing it this way but since I am sitting in both I actually think I see, I think it is causing a lot of problems and need to sync. They are setting up a lot of sync meetings just to do that between the PGs and EXTRENS syncs, ANSCI sync meetings and OPO sync meetings and so on. I think they are, they have a structure in the organisation that really is not good for normal communication that you need to put on sync meetings for everything. But I don't really see... no I don't see any other problems.
+I think... I don't know if it is due to communication but I think that our RA have done rather odd setup between G1 and G2 because it actually splitted except for APC it is splitted all the way up to department management and that means that two teams are sitting next to each other are working in the same code area but need a decision have to go all the way up to Thomas and back again and I think that is causing a lot of problems and maybe I see it because I am sitting in both projects. It is very easy to end up in: we in G2 doing it this way and we in G1 doing it this way but since I am sitting in both I actually think I see, I think it is causing a lot of problems and need to sync. They are setting up a lot of sync meetings just to do that between the PGs and EXTRENS syncs, NC sync meetings and OPO sync meetings and so on. I think they are, they have a structure in the organisation that really is not good for normal communication that you need to put on sync meetings for everything. But I don't really see... no I don't see any other problems.
