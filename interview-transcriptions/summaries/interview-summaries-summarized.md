@@ -55,11 +55,52 @@
    - No internal interference leads to production
 
 ### Interview 4 (XFT-D-2)
+- Organisation's transition towards agile
+	- Short term planning (flexible backlog) leads to faster feedback for XFTs
+- Sprint interruption
+	- Previous sprint feed back into current one (affects burn down)
+	- Unplanned work coming from other teams
+- Information sharing
+	- No macro view on the organisation on a bigger scale, what team is working on what etc
+		- Team exhibition is a good way to mitigate this
+	- Team knowledge spread best through demos when sprints in sync
+    - Hunt for information, especially at initial stage
+    	- Especially for a WP from an unknown domain/area
+    - Teams share their information based on what they think other would like to know
+    - In Wikis for later look up and async information gathering
+- Interdependent stories cause loads of communication and upfront analysis
+- Line Management pulls but does not push information
 
 ### Interview 5 (XFT-D-3)
+- Sprint Interruption
+	- Black work: unplanned work or TRs (<30% of time)
+    - TRs can be reassigned with good argument
+    - TRs differ in severity (hot to cold) and can be postponed
+ - Impediments
+ 	- Solved by SM and when no SM present also no impediments
+	- Mostly hardware related
+- Lack of Vision
+	- Short term present: one year up front
+	- (Pending) Asked for in retrospective
 
 ### Interview 6 (XFT-SM-2)
-
+- Communicaton between teams
+	- Co-location allows information spreading
+	- Also threat of over communicating
+- Lack of Vision
+	- Communicated only short time frame
+    - Needed to understand overall sense in work
+    - APO <-> team communication is wished for
+- No real connection to DM: lack of understanding towards his role
+- Responsibility overload
+	- Balance between XFTs being broad but also about distinct borders
+	- Team performs best when there are stories fit for everyone's competence
+	- Overall field to big an complex to grasp all areas
+    - Better to split up work by specialised responsibilities (e.g. testing)
+- Information sharing
+	- Lacks points of entry: too many independent wikis
+    - Information finding trouble some due to lack of common portal
+    - Communication on small scale fine, large scale almost not present
 
 ### Interview 7 (OPO-1)
 - LN integration
