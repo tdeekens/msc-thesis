@@ -201,3 +201,27 @@
 	- Too many teams per OPO
 	- More work in stock than current setup allows to handle
 - Teams tend to escalate problems too late
+ 
+### Interview 13 (XFT-D-4)
+- XFT's workflow & interrptions
+	- Unclear responsibilities & WoW
+		- Originating from non-approved PD process
+	- LM absense affected the team only administratively
+	- Control over backlog allows for better planning and following work
+	- Worse sprints when confirmation of other parties needed
+	- Interruptions might come from an OPO as unplanned work
+- Unclear communication ways in a big organization
+	- Hinder progress and cause frustration for an XFT
+	- Create extra-responsibility for a knowledgeable person in an area
+	- Issues get lost when approached on a personal level
+	- Solution: define these ways by having a weekly meeting where one can bring up and delegate an issue
+- Between teams communication
+	- Only with APC teams
+	- Presentation at a sprint review on work done - good way of knowing abobut other teams
+	- Team exhibition to know about other teams than APC
+- Information flow and handling
+	- Lack of information evaluation: tips & tricks vs approved WoW
+	- Huge amounts of unfiltered information on the Intranet - hard to know which is valid
+- Vision for the product
+	- Not sufficiently communicated
+	- Gives an overview of the surroundings so one can establish relevant contacts
