@@ -326,3 +326,30 @@
 - Information sharing
    - Information is accessible but there tends to be an overload
    - Filtering shall not be done by an entity - custom seeking profiles
+
+# XFT-D-4
+
+- Vague Responsibilities
+   - Indended end-to-end but no start or end
+   - Absence of process blurs responsibilities 
+- Development Process
+   - No clear process leads to unclear responsibilities
+- Communication Ways
+   - Hard getting ahold of people (takes time, affects development)
+   - Process could help defining communication ways
+   - Question flood for a known information source
+- Team Specialisation
+   - Single points of knowledge are bad, spreading through paired work good
+   - Broadening is hard at times and hinders focussing on strengths
+- Information Sharing
+   - Information flood complicates finding correct or value in information (valid piece)
+   - Stiffness: different types of information with various degrees of settledness (reviews and suggestions)
+- LN Dependency
+   - Not affected by absence of coach (work solved with agile loop)  
+- Sprint Setup
+   - Good: correct mix of stories adressing peoples strengths
+   - Bad: Added stuff by OPO or troubles regarding communication ways 
+- Lack of Vision
+   - Frustration and no knowledge about the product's directions
+   - No knowledge about surroundings
+   - APO changed and terminated communication of vision
