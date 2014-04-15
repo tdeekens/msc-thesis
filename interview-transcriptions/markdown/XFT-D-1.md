@@ -20,7 +20,7 @@ In this department I worked with something that was called «Test object» and t
 
 ### Now, in the agile context, are the responsibilities for your role clearly defined?
 
-To be a bit ironic I would say it’s definitely clear because the XFT is responsible for everything in the ??? To be a bit more serious, with my responsibilities it’s not that difficult because you can always ask someone and stuff like that, but I think the overall responsibility for the XFT team is not that clear really.
+To be a bit ironic I would say it’s definitely clear because the XFT is responsible for everything in this organisation. To be a bit more serious, with my responsibilities it’s not that difficult because you can always ask someone and stuff like that, but I think the overall responsibility for the XFT team is not that clear really.
 
 ### So you couldn’t identify yourself with, say, a product or part of the product?
 
@@ -200,7 +200,7 @@ I guess. But that is just because I have worked so long at Ercisson. I have actu
 
 ### Would you be interested to know to maybe improve?
 
-Yeah, yeah. And at the same time I don't want to know why the whole, I mean it’s a big project, to take in all the information would be to much [???] but still. More filtered information.
+Yeah, yeah. And at the same time I don't want to know why the whole, I mean it’s a big project, to take in all the information would be to much but still. More filtered information.
 
 ### How would you describe different interests between the Department Manager, Section Manager and Project Manager? Because the project manager seems to be very time focused.
 
