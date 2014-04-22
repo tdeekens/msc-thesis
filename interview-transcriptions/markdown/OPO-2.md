@@ -52,7 +52,7 @@ Nothing. Nothing.
 
 ### Is that something you are dissatisfied with and would like to see more? 
 
-No I don't think so because APO role is completely other role. It is only to do the prioritisation in the backlog and I think it is more important that product management does have a close collaboration with the APO to put things in the right priority. 
+No I don't think so because APO role is completely other role. It is only to do the prioritisation in the backlog and I think it is more important that product management does have a close cooperation with the APO to put things in the right priority. 
 
 ### Do these priorities maybe change during a sprint or whenever a team starts working?
 
@@ -60,7 +60,7 @@ Yeah it has been the case sometimes.
 
 ### But that's possible and not a big problem?
 
-Not anymore. In the beginning we had sort of stopped the work the the priority fell so to say. Then we decided with the program where Johan is the program manager that we don't stop ongoing work cause we lose too much speed. So after that it has not really been a problem if we have the priority to start it then we finalise it. 
+Not anymore. In the beginning we had sort of stopped the work when the priority fell so to say. Then we decided with the RA program where Johan is the program manager that we don't stop ongoing work because we lose too much speed. So after that it has not really been a problem if we have the priority to start it then when it's started we finalise it. 
 
 ### And what else can stop the work of a team?
 
@@ -68,7 +68,7 @@ Stop the work of a team. Decisions from management.
 
 ### Can you give any examples?
 
-Yeah, I don't think. Yeah we did stop. Last of, before and after last summer we had a quality problem and error in the NC domain and we got a management decision that we should prioritise working on NC TRs and NC product care. Then we stopped one ongoing feature and had one team working with NC product care for, I think it was eight weeks, something like that. So it was pure management decision.
+Yeah, I don't think... Yeah we did stop. Last of, before and after last summer we had a quality problem and error in the NC domain and we got a management decision that we should prioritise working on NC TRs and NC product care. Then we stopped one ongoing feature and had one team working with NC product care for I think it was eight weeks, something like that. So it was pure management decision.
 
 ### Is that something that happened only once or?
 
@@ -80,11 +80,11 @@ The MS2?
 
 ### Yeah. Could also be another team if you have an example.
 
-No, I don't think I had one. Maybe the closest is the MS1 in the G2. Where we had ongoing sprint where we turned out that most of the sprint, the planned stories were not possible. Due to factors outside our responsibility. Like we did not have an A4 CI server did not work, we had problems in the test environment. We got crashes when we did the uplift of the FRUM and we needed ATFI server that was not delivered and so on. So that was not very good sprint. They maybe did a lot of good work but it was not close to what we have had planned to do and it was not close to our stories so to say. But I can't remember with the MS2, a really bad sprint. But my memory is rather short. 
+No, I don't think I had one. Maybe the closest is the MS1 in the G2. Where we had ongoing sprint where we turned out that most of the sprint, the planned stories were not possible to do due to factors outside our responsibility. Like we did not have an A4 CI server did not work, we had problems in the test environment. We got crashes when we did the uplift of the FRUM and we needed ATFI server that was not delivered and so on. So that was not very good sprint. They maybe did a lot of good work but it was not close to what we have had planned to do and it was not close to our stories so to say. But I can't remember with the MS2, a really bad sprint. But my memory is rather short. 
 
 ### You're not the only one here. Can you think of a good sprint as a contrast?
 
-Yeah, I think most sprints have been good. I think the last sprint was rather good. I think we did a lot of good work in finalising a long ongoing task in large configuration area. Not many points but at least we did the implementation for the PDU-NOL31. So that was a rather good sprint. Then we have not been strictly agile last sprints. We tend to have some rest points at like 30 points which we normally do within a sprint and we have some, like 6 and 10 points and add 30 points. So it's sort of become our way of working. I have not bothered too much since we do our 30 points and I am not the Scrum Master. So I've got, we had a discussion with the team last week that we have to shape up that to really put sprints that we can finalise and have a rule that we never take on more points than we actually burn down the last sprint. So we are sort of shaping up the agile way of working right now. But as a product owner I think those sprints have been good anyways as we've done lot of good work. So I mean that's a difference between being Scrum Master and Product Owner I think. Scrum Master is the driver of the agile way of working I can sort of... when the team wants to work in another way like Kanban or anything it's okay by me as long as I get the work done. So I don't push too much for... when I see that we really get the work done then I don't attempt to change just for the changing reason. 
+Yeah, I think most sprints have been good. I think the last sprint was rather good. I think we did a lot of good work in finalising a long ongoing task in large configuration area. Not many points but at least we did most of the implementation for the PDU-031. So that was a rather good sprint. Then we have not been strictly agile last sprints. We tend to have some rest points at like 30 points which we normally do within a sprint and we have some, like 6 and 10 points and add 30 points. So it's sort of become our way of working. I have not bothered too much since we do our 30 points and I am not the Scrum Master. So I've got, we had a discussion with the team last week that we have to shape up that to really put sprints that we can finalise and have a rule that we never take on more points than we actually burn down the last sprint. So we are sort of shaping up the agile way of working right now. But as a product owner I think those sprints have been good anyways as we've done lot of good work. So I mean that's a difference between being Scrum Master and Product Owner I think. Scrum Master is the driver of the agile way of working I can sort of... when the team wants to work in another way like Kanban or anything it's okay by me as long as I get the work done. So I don't push too much for... when I see that we really get the work done then I don't attempt to change just for the changing reason. 
 
 ### And even though you're not a Scrum Master, what characteristics should be part of a good sprint? What surrounding should the team have? 
 
@@ -96,7 +96,7 @@ Points.
 
 ### But no external influences, no disruptions... such things?
 
-Yeah. And as a product owner not necessary points as well. I mean sometimes if we miss, if we do a story that we don't really get blocked or anything but I get a lot of implementation of node verification or things that I have on my sort of to do list done then it could be a good sprint anyway. 
+Yeah. And as a product owner not necessary points as well. I mean sometimes if we miss, if we do a story that we don't really get blocked or anything but I get a lot of implementation or node verification or things that I have on my sort of to do list don, then it could be a good sprint anyway. 
 
 ### So you work both with teams from G1 and G2.
 
@@ -120,11 +120,11 @@ Don't know if I understood they question.
 
 ### So, after the transformation XFTs were empowered so they have a lot of responsibilities, they just do all the work they have. So does it in anyway affect your communication with them? Or since their responsibility increase?
 
-Yeah, I think it is a lot of open issues. For example it has been a lot of discussion if anybody in the team should be able to do anything or not. And when we have raised those kinds of questions to management we don't really get answers. We get answers more like: it's up to each XFT to decide. So some people want to know if they are a designer in a XFT or if they are broaden by learning node verification and systematisation and so on. We don't really get the answers for those questions so sometimes you can see that XFTs are sort of splitted in different areas. And I think MS2 is one of those teams that are a bit splitted right now cause they have Helena doing all system work and they have Nihal doing almost all node verification and they are sometimes sort of working a bit outside the team with their own tasks. Then they have some teams working with action feature [???]. That I think is a big problem.
+Yeah, I think it is a lot of open issues. For example it has been a lot of discussion if anybody in the team should be able to do anything or not. And when we have raised those kinds of questions to management we don't really get answers. We get answers more like: it's up to each XFT to decide. So some people want to know if they are a designer in a XFT or if they are broaden by learning node verification and systematisation and so on. We don't really get the answers for those questions so sometimes you can see that XFTs are sort of splitted in different areas. And I think MS2 is one of those teams that are a bit splitted right now cause they have Helena doing all system work and they have Nihal doing almost all node verification and they are sometimes sort of working a bit outside the team with their own tasks. Then they have some people working with actual feature. That I think is a big problem.
 
 ### Do you think the team should be splitted and specialise or should everybody remain and be broad?
 
-I think they should be specialised but not splitted sort of. That they have their normal way that you are a designer in an XFT but when your required you also work with system and node verification and the opposite. But you have your main competence area but I don't think it is good when splitted. I think it is better when you only have a few test cases on the feature I think it is better when anybody does it and gets rid of it and also the node verification guy or girl can be a part of the systematisation. So that's my view.
+I think they should be specialised but not splitted sort of. That they have their normal way that you are a designer in an XFT but when required you also work with system and node verification and the opposite, but you have your main competence area. But I don't think it is good when yoou get splitted, I think it is better when you only have a few test cases on the feature it is better when everybody does it and gets rid of it and also the node verification guy or girl can be a part of the systematisation of next. So that's my view.
 
 ### So nobody should gather knowledge and not spread it again? 
 
@@ -132,7 +132,7 @@ No, I don't think so.
 
 ### Is it easy enough then for teams to spread the knowledge again if they specialise?
 
-Yeah I think so, it depends on what you mean by specialise cause I think everybody is sort of hired as a node verification or system or designer from the beginning so I think it is sort of better to keep that comfort zone. And when you want to have personal development it is normally within that area but you can broaden your knowledge that you also can do system work and node verification work but... so sort of but I don't think that anybody could say: OK I know I am the system guy, I can't be part of the implementation or the node verification sort of both.
+Yeah I think so, it depends on what you mean by specialise because I think everybody is sort of hired as a node verification or system or designer from the beginning so I think it is sort of better to keep that comfort zone. And when you want to have personal development it is normally within that area but you can broaden your knowledge that you also can do system work and node verification work but... so sort of... but I don't think that anybody could say: OK I know I am the system guy, I can't be part of the implementation or the node verification. So sort of both.
 
 ### How should a team member then learn into other fields that he's not part of. So he kind of knows what the other person is doing, could maybe take over his job?
 
@@ -140,7 +140,7 @@ Normally I try to push for, when we do implementation, we always do it in pair. 
 
 ### So you mentioned the management before we started talking about this. So how well you and your immediate environment are integrated with line management, section management, department management?
 
-Good and bad I think. I think that we have a rather good, I think we if we are perceived as a rather good area and at least I have a lot of contact with management and that works good. And I think that we have a setup that is not good and that is maybe MS2 that are the ones outside because there was a decision that the section manager should have two teams. The previous section manager had a product area and in our product area we got one section manager having two teams and the other having one and the other two and that's not really good. And MS2 is outside so to say, that don't have the same section manager and I mean Iva is design responsible for APC but she is not manager for MS2. So it's a rather, I don't know who was thinking anything when setting up that's really weird I would say. Means that we normally you have section meetings and you have day away and you have things that you do with your section. Normally you connect them to the program and you do some work or workshops or presentations or anything but now we sort of if we do it we only have two out of three teams if we do it and that's a rather odd situation for anyone I would say.
+Good and bad I think. I think that we have a rather good, I think we are perceived as a rather good area and at least I have a lot of contacts with management and that works good. But I think that we have a setup that is not good and that is maybe MS2 that are the ones outside because there was a decision that the section manager should have two teams. The previous section manager had a product area and in our product area we got one section manager having two teams and another having one in the same area; and that's not really good. And MS2 is outside so to say, that don't have the same section manager and I mean Eva is design responsible for APC but she is not manager for MS2. So it's a rather, I don't know who was thinking anything when setting up that, that's really weird I would say. Means that we normally you have section meetings and you have day away and you have things that you do with your section. Normally you connect them to the program and you do some work or workshops or presentations or anything but now we sort of if we do it we only have two out of three teams if we do it and that's a rather odd situation for anyone I would say.
 
 ### Any would that change or...
 
@@ -152,7 +152,7 @@ Maybe in the future but right now we have sort of a setup on management, on high
 
 ### Yeah, it is just...
 
-But then we are in a transition and we have seen the latest slides from Thomas our area manager where we have sort of pulled that back and said that we need some sort of product teams and so I think that we are sort of reorging to get more of a teams connected products again?
+But then we are in a transition and we have seen the latest slides from Thomas our area manager where we have sort of pulled that back and said that we need some sort of product teams and so I think that we are sort of reorging to get more of a teams connected to products again.
 
 ### How does that affect the ownership? Does it follow any paradigm of ownership for a team whenever that changes often?
 
@@ -160,7 +160,7 @@ I don't know if the teams have seen so much of it since we have sort of kept it.
 
 ### But some parts are aware of that it's not correct: the way of working?
 
-Yeah, I mean of course everybody has been questioned strategy that they have been asking questions: could we, is it really that next sprint we could have NC feature we don't know anything about about. So they have been sort of afraid of the power points so to say but it has not turned to reality.
+Yeah, I mean of course everybody has been questioned strategy that they have been asking questions: could we, is it really that we next sprint  could have NC feature that we don't know anything about. So they have been sort of afraid of the effect of the power points so to say but it has not turned to reality.
 
 ### So are you in contact normally with department managers as well?
 
@@ -184,11 +184,11 @@ To others?
 
 ### Yeah.
 
-I've lot of connections with the program management and of course the teams and the scrum masters and the management via their LT sometimes also on PSG. So there it's more of presentation of status towards management I would say. Towards program management it's planning and ongoing work and what is the next task the team could take. And also status on ongoing work and the teams of course where I have, I would say, have most of my contacts cause we have all normal meetings, sprint plannings and backlog grooming meetings and reviews and so on.
+I've lot of connections with the program management and of course the teams and the scrum masters and the management via their LT and sometimes also on PSG. So there it's more of presentation of status towards management I would say. Towards program management it's planning and ongoing work and what is the next task the team could take. And also status on ongoing work and the teams of course where I have, I would say, have most of my contacts cause we have all normal meetings, sprint plannings and backlog grooming meetings and reviews and so on.
 
 ### And what events can create more communication than normally?
 
-Communication. I would say that the sprint review could cause there everybody is gathered in one meeting room. Plannings are team by team so it's only me one team. Our backlog meeting to get approved obviously generates a lot of discussions between me and the program manager.
+Communication. I would say that the sprint review could because there everybody is gathered in one meeting room. Plannings are team by team so it's only me and one team. Our backlog meetings with the program of course generates a lot of discussions between me and the program manager.
 
 ### And if you look at your communication in general: do you think there is someone, some role that takes too much responsibility? So being to central and being a bottleneck at times?
 
@@ -206,7 +206,7 @@ No. Very bad.
 
 ### Very bad, which parts are very bad or what is very bad?
 
-I think that when we keep them as in the same wing going, I sort of expected more coffee area discussions and day to day communication but I see trends that they after a certain amount of time normally tend to keep to their team: have their own coffee times, go to lunch not mix. Not always but more than I expected cause sometimes we just move around the people in the team not in the new organisation but in the old and then we saw the same trend after a couple of months. So I wonder why, but that's what we have seen and that's one of the reasons why we really keep the reviews together. To really get all teams knowing what is really happening in APC area. I think in basic that that should not be necessary that should just be solved by interest and discussion. I mean they really know each other and have been working in the same team in the past and so on. For some reason the communication stops.
+I think that when we keep them as... in the same wing going, I sort of expected more coffee area discussions and day to day communication but I see trends that they after a certain amount of time normally tend to keep to their team: have their own coffee times, go to lunch not mixed. Not always but more than I expected cause sometimes we just move around the people in the team not in the new organisation but in the old and then we saw the same trend after a couple of months. So I wonder why, but that's what we have seen and that's one of the reasons why we really keep the reviews together. To really get all teams knowing what is really happening in APC area. I think in basic I think that should not be necessary, that should just be solved just by interest and discussion. I mean they really know each other and have been working in the same team in the past and so on. For some reason the communication stops.
 
 ### But it seems like it's their fault, their responsibility to talk to other people more and if you don't shove them into the direction they don't?
 
@@ -226,19 +226,19 @@ Yeah, good question. Maybe something for you to find out. Cause I don't really u
 
 ### And how does it affect them whenever they need to reach out and talk to another team?
 
-Then they do it. If its necessary.
+Then they do it. If it's necessary.
 
 ### And then they know who to talk to?
 
-Yeah but not they really need a reason like a work something like they really need to fix an ongoing story or a problem in the regression or anything not just by interest like "how are you doing the implementation on PLDU?". So on a certain level, yes they are communicating and discussing but not at that extend I actually expected. 
+Yeah but not... they really need a reason like a work something like they really need to fix an ongoing story or a problem in the regression or anything not just by interest like "how are you doing the implementation on PLDU?". So on a certain level, yes they are communicating and discussing but not at that extent I actually expected. 
 
 ### And where would it help if they would communicate more? What would it mitigate? 
 
-I think it's two things. One it's when one team is doing a feature of anything it affects the other team cause it gets TRs that they need to handle right after and I mean they have made changes to the code that are sort of common. So that is one thing and the other thing is that then you if you are thinking on how do to something or implement or do node verification then you get more people with a lot of experience get their opinions as well. So now you tend to keep that discussion and decision within your team. So they should have a broader base of knowledge to base your decisions on. 
+I think it's two things. One it's when one team is doing a feature of anything it affects the other team because it gets TRs that they need to handle right after and I mean they have made changes to the code that are sort of common. So that is one thing and the other thing is that then you if you are thinking on how do to something or implement or do node verification then you get more people with a lot of experience get their opinions as well. So now you tend to keep that discussion and decision within your team. So they should have a broader base of knowledge to base your decisions on. 
 
 ### So lets go back to your communication as an OPO: how is information sharing and receiving between you and other structures you communicate with is performed? How do you decide what to share, how often do you share information? How sufficient is it?
 
-Yeah. To a big extend it is talking to people. So I don't have a lot of forums where I share information, I have the sprint reviews that I have a slot that I use for products oriented or technical on planning, on what's in the pipe on, in the APC area that might be task for one of the teams and then I use slot on our section meetings but then I miss out MS2, I only have MS1 there. And the rest is via discussions.
+Yeah. To a big extent it is talking to people. So I don't have a lot of forums where I share information, I have the sprint reviews that I have a slot that I use for products oriented or technical on planning, on what's in the pipe on, in the APC area that might be task for one of the teams and then I use slot on our section meetings but then I miss out MS2, I only have MS1 there. And the rest is via discussions.
 
 ### Do you have any opinion on how information should be shared when working agile? Or how it shouldn't be shared?
 
@@ -252,15 +252,15 @@ No I think it's good.
 
 ### How do you share information with the team? Do they contact you mostly or is it from you to them?
 
-I think it is 50/50 cause we have, in each sprint, we have some meetings. We have the sprint planning, then we have planning grooming activities. Then we have reviews and planning again. And outside that the team normally contact me when they have some problems they don't understand or they have an impediment or anything. And I normally contact them to look on the progress of if I have any task that we have to really, really have to do but is missed out in the planning. Then we can have a discussion on how we can change a story and it is I think it is 50/50 but from different angles. 
+I think it is 50/50 because we have, in each sprint, we have some meetings. We have the sprint planning, then we have planning grooming activities. Then we have reviews and planning again. And outside that the team normally contact me when they have some problems they don't understand or they have an impediment or anything. And I normally contact them to look on the progress of if I have any task that we have to really, really have to do but is missed out in the planning. Then we can have a discussion on how we can change a story and it is I think it is 50/50 but from different angles. 
 
 ### And to what extend are you normally involved on backlog related work on the team?
 
-Very different I would say right now on MS2 latest weeks they are doing a lot of backlog activities themselves. That means that we have our normal meetings but more of a that they explaining the stories that they have written to me and we are, that we have a common view on what the goal is on the stories. And what is, how many points the effort needed to make that story then I add things that I see that the team has to do in the coming sprint but that is outside of what I have done. And then I sort of still of responsible of doing the prioritisation so that is latest weeks that we have gotten to that level and I think that is really good. On other teams like MS1 I am doing a lot more work cause when we have the same meeting with them sort of come to a blank sheet. Sort of no stories done, no thinking no anything so I have to put more time on that work on MS1 right now than on MS2. And that is also connected to if you have a large main task or not. Right now they have a large main task that is the PDU and then it's sort of normal when doing these sprints they see very clear what they need to do in the next sprint and then they do the stories right away not waiting for a meeting and I think that is very good. But it's very hard to do when you don't have that main task. So you need to have one big feature covering at least 70% of the sprint then you get to do the team to a lot of the story grooming themselves. 
+Very different I would say. Right now on MS2 latest weeks they are doing a lot of backlog activities themselves. That means that we have our normal meetings but they are more of a that they are explaining the stories that they have written to me and we are, that we have a common view on what the goal is of the stories and what is, how many points of the effort needed to make that story. Then I add things that I see that the team has to do in the coming sprint but that is outside of what I have done. And then I sort of still responsible of doing the prioritisation so that is latest weeks that we have gotten to that level. I think that is really good. On other teams like MS1 I am doing a lot more work cause when we have the same meeting with them sort of come to a blank sheet. Sort of no stories done, no thinking no anything so I have to put more time on that work on MS1 right now than on MS2. And that is also connected to if you have a large main task or not. Right now they have a large main task that is the PDU and then it's sort of normal that when doing these sprints they see very clear what they need to do in the next sprint and then they do the stories right away not waiting for a meeting and I think that is very good. But it's very hard to do when you don't have that main task. So you need to have one big feature covering at least 70% of the sprint then you can get the team to do a lot of the story grooming themselves. 
 
 ### And how much of the vision for the product is communicated to the team?
 
-Too less I think. Sometimes we have had, it depends on. Yeah I think it differs if you do a features or if you do like the PDU it is now software support for a hardware then it is the I mean the vision of the purpose is more what is Ericsson's benefits of this new hardware and that is rather clearly communicated and they have been part of some activities on hardware to see that. Normally if you have a feature that is pure software feature or try to get the product manager to discuss or tell about the benefits for the end customer of the feature but it's sometimes missed out as well. 
+Too less I think. Sometimes we have had, it depends on... Yeah I think it differs if you do a feature or if you do like the PDU, it is now software support for a hardware, then it is ... I mean the vision, the purpose is more what is Ericsson's benefits of this new hardware and that is rather clearly communicated and they have been part of some activities on hardware to see that. Normally if you have a feature that is pure software feature or try to get the product manager to discuss or tell about the benefits for the end customer of this feature, but it's sometimes missed out as well. 
 
 ### How does long term planning align with agile, is there any conflicts between the two? Or does is kind of work that you plan long-term and you take chunks out and just work on them in an agile way?
 
