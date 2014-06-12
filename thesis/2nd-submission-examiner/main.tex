@@ -1,0 +1,55 @@
+%\title{MSc Thesis}
+
+\documentclass[11pt,a4paper]{report}
+
+% Packages and commands file
+\input{configuration/packagescommands}
+
+% Settings (Metadata)
+\input{configuration/settings}
+
+\begin{document}
+
+% Title page and abstract
+\input{includes/titlepageabstract}
+
+% Table of contents 
+\newpage
+\pagenumbering{roman}
+\setcounter{page}{1}
+\pagestyle{fancy}
+\setspecialhdr
+\tableofcontents
+
+% Main area
+\newpage
+\setdefaulthdr
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% Content
+\input{includes/acronyms}
+\input{chapters/introduction}
+\input{chapters/background}
+\input{chapters/related-work}
+\input{chapters/case-company-description}
+\input{chapters/research-methodology}
+\input{chapters/findings}
+\input{chapters/discussion}
+\input{chapters/conclusions}
+
+\newpage
+\clearpage
+
+\bibliography{includes/references} % references.bib
+\addcontentsline{toc}{chapter}{\numberline{}Bibliography} % For pdf
+\setspecialhdr
+
+\newpage
+
+% Appendices
+\appendix
+\setdefaulthdr
+\input{appendix/interview-guides}
+\input{appendix/figures}
+\end{document}
